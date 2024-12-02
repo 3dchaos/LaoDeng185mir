@@ -1,0 +1,120 @@
+HGE Started..
+
+HGE version: 1.80
+Date: 21.10.2021, 19:47:54
+
+OS: Windows 6.2.9200
+Memory: 2097151K total, 2097151K free
+
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce GTX 1070
+Version: 30.0.14.7168
+Can't find appropriate full screen video mode 0
+Mode: 1639 x 1031 x UNKNOWN
+
+MaxTextureWidth: 16384
+MaxTextureHeight: 16384
+MaxPrimitiveCount: 16777215
+MaxVertexIndex: 16777215
+Cache 3072 4096 4096
+Init done.
+
+
+Finishing..
+The End.
+HGE Started..
+
+HGE version: 1.80
+Date: 21.10.2021, 19:48:19
+
+OS: Windows 6.2.9200
+Memory: 2097151K total, 2097151K free
+
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce GTX 1070
+Version: 30.0.14.7168
+Can't find appropriate full screen video mode 0
+Mode: 1639 x 1031 x UNKNOWN
+
+MaxTextureWidth: 16384
+MaxTextureHeight: 16384
+MaxPrimitiveCount: 16777215
+MaxVertexIndex: 16777215
+Cache 3072 4096 4096
+Init done.
+
+
+Finishing..
+The End.
+HGE Started..
+
+HGE version: 1.80
+Date: 21.10.2021, 19:48:43
+
+OS: Windows 6.2.9200
+Memory: 2097151K total, 2097151K free
+
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce GTX 1070
+Version: 30.0.14.7168
+Can't find appropriate full screen video mode 0
+Mode: 1639 x 1031 x UNKNOWN
+
+MaxTextureWidth: 16384
+MaxTextureHeight: 16384
+MaxPrimitiveCount: 16777215
+MaxVertexIndex: 16777215
+Cache 3072 4096 4096
+Init done.
+
+
+Finishing..
+The End.
+HGE Started..
+
+HGE version: 1.80
+Date: 21.10.2021, 19:49:16
+
+OS: Windows 6.2.9200
+Memory: 2097151K total, 2097151K free
+
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce GTX 1070
+Version: 30.0.14.7168
+Can't find appropriate full screen video mode 0
+Mode: 1639 x 1031 x UNKNOWN
+
+MaxTextureWidth: 16384
+MaxTextureHeight: 16384
+MaxPrimitiveCount: 16777215
+MaxVertexIndex: 16777215
+Cache 3072 4096 4096
+Init done.
+
+
+Finishing..
+The End.
+HGE Started..
+
+HGE version: 1.80
+Date: 21.10.2021, 19:49:41
+
+OS: Windows 6.2.9200
+Memory: 2097151K total, 2097151K free
+
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce GTX 1070
+Version: 30.0.14.7168
+Can't find appropriate full screen video mode 0
+Mode: 1639 x 1031 x UNKNOWN
+
+MaxTextureWidth: 16384
+MaxTextureHeight: 16384
+MaxPrimitiveCount: 16777215
+MaxVertexIndex: 16777215
+Cache 3072 4096 4096
+Init done.
+
+
+Finishing..
+The End.
