@@ -17,8 +17,7 @@ OpenBigDialogBox <$STR(N$资源编号)> 16 1 4 0 0 1 384 23
 [@next]
 #IF
 #ACT
-GOTO @关闭大对话框
-#IF
+CLOSEBIGDIALOGBOX
 #say
 首先告诉你与NPC对话的方法. \
 与NPC对话的方法是点击对话框内的有黄色下划线的字 \
@@ -27,7 +26,6 @@ GOTO @关闭大对话框
 <下一页/@next1>
 
 [@next1]
-#say
 从以下菜单中选择一下. \
 <物品使用指南/@Wear>\
 <移动指南/@Move>\
@@ -79,6 +77,10 @@ checkitem 佛牌 1
 give 介绍信 1
 
 [@QUEST]
+#IF
+#ACT
+CLOSEBIGDIALOGBOX
+
 #IF
 check [756] 1
 #ACT
