@@ -26,6 +26,11 @@ break
 #ACT
 INC I11 1
 break
+[@清理每日]
+#IF
+#ACT
+CLEARNAMELIST ..\QuestDiary\数据文件\新人元宝IP检测.txt
+CLEARNAMELIST ..\QuestDiary\数据文件\新人元宝名单
 
 [@下午宫殿]
 #IF

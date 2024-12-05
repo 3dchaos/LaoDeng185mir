@@ -14,6 +14,62 @@ OpenBigDialogBox <$STR(N$资源编号)> 16 1 4 0 0 1 384 23
 <Text:#L02~:能做的事情|主线任务，4级前领取:0:50{FCOLOR=251}/@QUEST>
 <NewLine:#L02~>
 <Text:#L02~:学习玩传奇的入门|支线任务，8级以前领取:0:50{FCOLOR=251}/@next>
+<NewLine:#L02~>
+<Text:#L02~:领取新人每日元宝|新人每日可领取元宝\帮助你轻松度过30级:0:50{FCOLOR=251}/@每日元宝>
+[@每日元宝]
+#IF
+CHECKLEVELEX < 30
+#ACT
+	#IF
+	CHECKLEVELEX < 20
+	#ACT
+	MOV N$发放元宝数 100
+	#ELSEACT
+	MOV N$发放元宝数 500
+#ELSEACT
+MESSAGEBOX 你的等级已经太高了,需要自力更生哦！
+BREAK
+
+#IF
+  checknamelist ..\QuestDiary\数据文件\新人元宝名单.txt
+#ACT
+MESSAGEBOX 今天我已经帮助过你了,明天再来吧！
+BREAK
+
+#IF
+#ACT
+GetPlayInfo IP S$用户IP
+
+#IF
+GetStringPosEX ..\QuestDiary\数据文件\新人元宝IP检测.txt <$STR(S$用户IP)> N$行号 S$行文本 0
+#ACT
+;IP领取过，接着检测次数
+goto @次数判断
+GOTO @成功领取元宝
+DelTextListLine ..\QuestDiary\数据文件\新人元宝IP检测.txt <$STR(N$行号)> 0
+ADDTEXTLIST ..\QuestDiary\数据文件\新人元宝IP检测.txt <$STR(S$用户IP)>:2
+#ELSEACT
+;IP一次都没领取过
+GOTO @成功领取元宝
+ADDTEXTLIST ..\QuestDiary\数据文件\新人元宝IP检测.txt <$STR(S$用户IP)>:1
+[@次数判断]
+#IF
+#ACT
+GetListString ..\QuestDiary\数据文件\新人元宝IP检测.txt <$STR(N$行号)> S$临时无用 N$IP次数
+#IF
+EQUAL N$IP次数 2
+#ACT
+MESSAGEBOX 别以为换一个人来就可以骗本小姐\当前IP已经领取过两次了，请不要重复领取
+BREAK
+
+
+[@成功领取元宝]
+#IF
+#ACT
+GAMEGOLD + <$STR(N$发放元宝数)>
+ADDTEXTLIST ..\QuestDiary\数据文件\新人元宝名单.txt <$USERNAME>
+MESSAGEBOX 增加<$STR(N$发放元宝数)>元宝,希望能帮助你解决目前的困境!
+
 [@next]
 #IF
 #ACT

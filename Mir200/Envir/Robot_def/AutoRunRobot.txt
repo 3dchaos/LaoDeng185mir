@@ -3,6 +3,8 @@
 #AutoRun NPC RUNONDAY 15:00 @下午宫殿
 #AutoRun NPC RUNONDAY 19:00 @晚上宫殿
 
+#AutoRun NPC RUNONDAY 23:59 @清理每日
+
 #AutoRun NPC RUNONWEEK 1:23:00 @火龙宝藏
 #AutoRun NPC RUNONWEEK 1:23:05 @火龙宝藏1
 #AutoRun NPC RUNONWEEK 1:23:10 @火龙宝藏2
