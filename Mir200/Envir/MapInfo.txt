@@ -1,46 +1,46 @@
 ;´«ÆæÊÀ½çËùÓÐ³¡Ëù
-[0              ±ÈÆæÊ¡]
-[0122           »Ê¹¬                  0]                     FIGHT
-[0110           Á·Îä³¡                0]                     FIGHT
-[0111           Á·Îä³¡                0]                     FIGHT
-[0112           Á·Îä³¡                0]                     FIGHT
-[0102           Èâµê                  0]                     FIGHT
-[0108           Ò©µê                  0]                     FIGHT
-[0109           Á¶¶¾·¿                0]                     FIGHT
-[0104           Êéµê                  0]                     FIGHT
-[0107           ÃÀ·¢µê                0]                     FIGHT
-[0125           ¶«·½¿ÍÕ»              0]                     FIGHT
-[0126           ¶«·½¿ÍÕ»¶þ²ã          0]                     FIGHT
-[0103           ÎäÆ÷µê                0]                     FIGHT
-[0105           ÔÓ»õµê                0]                     FIGHT
-[0106           ÒÂ·þµê                0]                     FIGHT
-[0101           ¿ÍÕ»                  0]                     FIGHT
-[0100           ³ø·¿                  0]                     FIGHT
-[0128           ·¿ÎÝ                  0]                     FIGHT
-[0129           ·¿ÎÝ                  0]                     FIGHT
-[0123           ·¿ÎÝ                  0]                     FIGHT
-[0124           ·¿ÎÝ                  0]                     FIGHT
-[0114           ¸ß¼¶Õ½Ê¿Ö®¼Ò]          FIGHT
-[01141          ¸ß¼¶Õ½Ê¿Ö®¼Ò]          NORECALL NORECONNECT(0)
-[01142          ÈÎÎñµØÍ¼]              NORECALL FIGHT NORECONNECT(0114)
-[0115           ¸ß¼¶Ä§·¨Ê¦Ö®¼Ò]        FIGHT
-[01152          ÈÎÎñµØÍ¼]              NORECALL FIGHT NORECONNECT(0115)
-[0113           ¸ß¼¶µÀÊ¿Ö®¼Ò]          FIGHT
-[01132          ÈÎÎñµØÍ¼]              NORECALL FIGHT NORECONNECT(0113)
-[0137           ¾º¼¼³¡]                FIGHT
-[0139           ¾º¼¼³¡]                FIGHT
-[G001           Î´ÖªÇøÓò]              NORECALL
-[G002           Î´ÖªÇøÓò]              NORECALL
-[G003           ×ãÇò³¡1               ]                      SAFE DAY NORECONNECT(0) NORECALL
-[G004           ×ãÇò³¡2               ]                      SAFE DAY NORECONNECT(0) NORECALL
-[G005           ×ãÇò³¡3               ]                      SAFE DAY NORECONNECT(0) NORECALL
-[G006           ×ãÇò³¡4               ]                      SAFE DAY NORECONNECT(0) NORECALL
-[G007           ×ãÇò³¡5               ]                      SAFE DAY NORECONNECT(0) NORECALL
-[G008           ×ãÇò³¡6               ]                      FIGHT DAY NORECONNECT(0) NORECALL
-[G009           ×ãÇò³¡7               ]                      FIGHT DAY NORECONNECT(0) NORECALL
-[G010           ×ãÇò³¡8               ]                      FIGHT DAY NORECONNECT(0) NORECALL
-[G011           ×ãÇò³¡9               ]                      FIGHT DAY NORECONNECT(0) NORECALL
-[G012           ×ãÇò³¡10              ]                      FIGHT DAY NORECONNECT(0) NORECALL
+[0              ±ÈÆæÊ¡]    NOMANNOMON
+[0122           »Ê¹¬                  0]    NOMANNOMON                     FIGHT
+[0110           Á·Îä³¡                0]    NOMANNOMON                     FIGHT
+[0111           Á·Îä³¡                0]    NOMANNOMON                     FIGHT
+[0112           Á·Îä³¡                0]    NOMANNOMON                     FIGHT
+[0102           Èâµê                  0]    NOMANNOMON                     FIGHT
+[0108           Ò©µê                  0]    NOMANNOMON                     FIGHT
+[0109           Á¶¶¾·¿                0]    NOMANNOMON                     FIGHT
+[0104           Êéµê                  0]    NOMANNOMON                     FIGHT
+[0107           ÃÀ·¢µê                0]    NOMANNOMON                     FIGHT
+[0125           ¶«·½¿ÍÕ»              0]    NOMANNOMON                     FIGHT
+[0126           ¶«·½¿ÍÕ»¶þ²ã          0]    NOMANNOMON                     FIGHT
+[0103           ÎäÆ÷µê                0]    NOMANNOMON                     FIGHT
+[0105           ÔÓ»õµê                0]    NOMANNOMON                     FIGHT
+[0106           ÒÂ·þµê                0]    NOMANNOMON                     FIGHT
+[0101           ¿ÍÕ»                  0]    NOMANNOMON                     FIGHT
+[0100           ³ø·¿                  0]    NOMANNOMON                     FIGHT
+[0128           ·¿ÎÝ                  0]    NOMANNOMON                     FIGHT
+[0129           ·¿ÎÝ                  0]    NOMANNOMON                     FIGHT
+[0123           ·¿ÎÝ                  0]    NOMANNOMON                     FIGHT
+[0124           ·¿ÎÝ                  0]    NOMANNOMON                     FIGHT
+[0114           ¸ß¼¶Õ½Ê¿Ö®¼Ò]    NOMANNOMON          FIGHT
+[01141          ¸ß¼¶Õ½Ê¿Ö®¼Ò]    NOMANNOMON          NORECALL NORECONNECT(0)
+[01142          ÈÎÎñµØÍ¼]    NOMANNOMON              NORECALL FIGHT NORECONNECT(0114)
+[0115           ¸ß¼¶Ä§·¨Ê¦Ö®¼Ò]    NOMANNOMON        FIGHT
+[01152          ÈÎÎñµØÍ¼]    NOMANNOMON              NORECALL FIGHT NORECONNECT(0115)
+[0113           ¸ß¼¶µÀÊ¿Ö®¼Ò]    NOMANNOMON          FIGHT
+[01132          ÈÎÎñµØÍ¼]    NOMANNOMON              NORECALL FIGHT NORECONNECT(0113)
+[0137           ¾º¼¼³¡]    NOMANNOMON                FIGHT
+[0139           ¾º¼¼³¡]    NOMANNOMON                FIGHT
+[G001           Î´ÖªÇøÓò]    NOMANNOMON              NORECALL
+[G002           Î´ÖªÇøÓò]    NOMANNOMON              NORECALL
+[G003           ×ãÇò³¡1               ]    NOMANNOMON                      SAFE DAY NORECONNECT(0) NORECALL
+[G004           ×ãÇò³¡2               ]    NOMANNOMON                      SAFE DAY NORECONNECT(0) NORECALL
+[G005           ×ãÇò³¡3               ]    NOMANNOMON                      SAFE DAY NORECONNECT(0) NORECALL
+[G006           ×ãÇò³¡4               ]    NOMANNOMON                      SAFE DAY NORECONNECT(0) NORECALL
+[G007           ×ãÇò³¡5               ]    NOMANNOMON                      SAFE DAY NORECONNECT(0) NORECALL
+[G008           ×ãÇò³¡6               ]    NOMANNOMON                      FIGHT DAY NORECONNECT(0) NORECALL
+[G009           ×ãÇò³¡7               ]    NOMANNOMON                      FIGHT DAY NORECONNECT(0) NORECALL
+[G010           ×ãÇò³¡8               ]    NOMANNOMON                      FIGHT DAY NORECONNECT(0) NORECALL
+[G011           ×ãÇò³¡9               ]    NOMANNOMON                      FIGHT DAY NORECONNECT(0) NORECALL
+[G012           ×ãÇò³¡10              ]    NOMANNOMON                      FIGHT DAY NORECONNECT(0) NORECALL
 
 0               346,186               ->                    0122                  11,41
 0               347,186               ->                    0122                  12,42
@@ -153,11 +153,11 @@
 0139            17,20                 ->                    0137                  13,15
 0139            16,21                 ->                    0137                  12,16
 
-[0135           ÃÜÊÒ]                  FIGHT
-[0134           ÃÜÊÒ]                  FIGHT
-[0133           ÃÜÊÒ]                  FIGHT
-[0119           ÒøÐÓ´åÒ©µê]            FIGHT
-[0118           ÃÜÊÒ]                  FIGHT
+[0135           ÃÜÊÒ]    NOMANNOMON                  FIGHT
+[0134           ÃÜÊÒ]    NOMANNOMON                  FIGHT
+[0133           ÃÜÊÒ]    NOMANNOMON                  FIGHT
+[0119           ÒøÐÓ´åÒ©µê]    NOMANNOMON            FIGHT
+[0118           ÃÜÊÒ]    NOMANNOMON                  FIGHT
 0               625,620               ->                    0135                  9,9
 0135            9,10                  ->                    0                     625,621
 0               622,639               ->                    0134                  6,12
@@ -171,15 +171,15 @@
 0               650,616               ->                    0118                  3,13
 0118            2,14                  ->                    0                     649,617
 
-[0121           ÃÜÊÒ]                  FIGHT
-[0127           ¼àÓü]
-[0130           ÃÜÊÒ]                  FIGHT
-[0131           ÃÜÊÒ]                  FIGHT
-[0136           ±ß½çÂÃ¹Ý]              FIGHT
-[0132           ±ß½çÊéµê]              FIGHT
-[0138           ÃÜÊÒ]                  FIGHT
-[0141           Ê×ÊÎµê]                FIGHT
-[0140           ²Ö¿â]                  FIGHT
+[0121           ÃÜÊÒ]    NOMANNOMON                  FIGHT
+[0127           ¼àÓü]    NOMANNOMON
+[0130           ÃÜÊÒ]    NOMANNOMON                  FIGHT
+[0131           ÃÜÊÒ]    NOMANNOMON                  FIGHT
+[0136           ±ß½çÂÃ¹Ý]    NOMANNOMON              FIGHT
+[0132           ±ß½çÊéµê]    NOMANNOMON              FIGHT
+[0138           ÃÜÊÒ]    NOMANNOMON                  FIGHT
+[0141           Ê×ÊÎµê]    NOMANNOMON                FIGHT
+[0140           ²Ö¿â]    NOMANNOMON                  FIGHT
 
 0               309,613               ->                    0121                  3,16
 0121            2,16                  ->                    0                     308,615
@@ -211,11 +211,11 @@
 0               307,627               ->                    0140                  2,10
 0140            2,11                  ->                    0                     306,628
 
-[D001           ÊÞÈË¹ÅÄ¹Ò»²ã]          DARK
-[D002           ÊÞÈË¹ÅÄ¹¶þ²ã]          DARK
-[DM001          ÉÌµê]                  FIGHT
-[DM002          ¹úÍõÁêÄ¹]              DARK
-[D003           ÊÞÈË¹ÅÄ¹Èý²ã]          DARK
+[D001           ÊÞÈË¹ÅÄ¹Ò»²ã]    NOMANNOMON          DARK
+[D002           ÊÞÈË¹ÅÄ¹¶þ²ã]    NOMANNOMON          DARK
+[DM001          ÉÌµê]    NOMANNOMON                  FIGHT
+[DM002          ¹úÍõÁêÄ¹]    NOMANNOMON              DARK
+[D003           ÊÞÈË¹ÅÄ¹Èý²ã]    NOMANNOMON          DARK
 
 0               147,33                ->                    D001                  151,362
 D001            149,364               ->                    0                     147,34
@@ -240,9 +240,9 @@ DM002           7,28                  ->                    D002                
 D002            117,95                ->                    D003                  106,83
 D003            106,82                ->                    D002                  117,96
 
-[D011           ÌìÈ»¶´Ñ¨Ò»²ã]          DARK
-[D012           ÌìÈ»¶´Ñ¨¶þ²ã]          DARK
-[DM011          ÉÌµê]                  FIGHT
+[D011           ÌìÈ»¶´Ñ¨Ò»²ã]    NOMANNOMON          DARK
+[D012           ÌìÈ»¶´Ñ¨¶þ²ã]    NOMANNOMON          DARK
+[DM011          ÉÌµê]    NOMANNOMON                  FIGHT
 
 0               41,108                ->                    D011                  154,367
 0               41,109                ->                    D011                  154,366
@@ -257,7 +257,7 @@ D012            77,197                ->                    D011                
 D012            189,144               ->                    DM011                 5,10
 DM011           6,10                  ->                    D012                  189,145
 
-[1              ÎÖÂêÉ­ÁÖ]
+[1              ÎÖÂêÉ­ÁÖ]    NOMANNOMON
 0               324,34                ->                    1                     559,553
 0               325,34                ->                    1                     560,553
 0               325,35                ->                    1                     560,554
@@ -308,10 +308,10 @@ DM011           6,10                  ->                    D012                
 4               449,189               ->                    1                     50,166
 4               450,188               ->                    1                     51,165
 ;ÎÖÂêËÂÃí
-[D021           ÎÖÂêËÂÃíÈë¿Ú]          DARK
-[D022           ÎÖÂêËÂÃíÒ»²ã]          DARK
-[D023           ÎÖÂêËÂÃí¶þ²ã]          DARK
-[D024           ÎÖÂê½ÌÖ÷´óµî]          NORECALL NORANDOMMOVE NORECONNECT(D023) DARK
+[D021           ÎÖÂêËÂÃíÈë¿Ú]    NOMANNOMON          DARK
+[D022           ÎÖÂêËÂÃíÒ»²ã]    NOMANNOMON          DARK
+[D023           ÎÖÂêËÂÃí¶þ²ã]    NOMANNOMON          DARK
+[D024           ÎÖÂê½ÌÖ÷´óµî]    NOMANNOMON          NORECALL NORANDOMMOVE NORECONNECT(D023) DARK
 
 1               84,277                ->                    D021                  76,74
 1               84,278                ->                    D021                  76,75
@@ -331,7 +331,7 @@ D023            198                   193                   ->                  
 D023            52                    366                   ->                    D024                         16                    19
 D024            16                    18                    ->                    D023                         51                    365
 
-[2              ¶¾ÉßÉ½¹È]
+[2              ¶¾ÉßÉ½¹È]    NOMANNOMON
 0               671,82                ->                    2                     414,563
 0               672,82                ->                    2                     415,563
 0               672,83                ->                    2                     415,564
@@ -370,10 +370,10 @@ D024            16                    18                    ->                  
 2               415,569               ->                    0                     672,88
 2               416,569               ->                    0                     673,88
 
-[0116           ¿ÍÕ»]                  FIGHT
-[0117           Ò©µê]                  FIGHT
-[0120           ÎäÆ÷µê]                FIGHT
-[0142           ÃÜÊÒ]                  FIGHT
+[0116           ¿ÍÕ»]    NOMANNOMON                  FIGHT
+[0117           Ò©µê]    NOMANNOMON                  FIGHT
+[0120           ÎäÆ÷µê]    NOMANNOMON                FIGHT
+[0142           ÃÜÊÒ]    NOMANNOMON                  FIGHT
 
 2               523,473               ->                    0116                  10,23
 2               523,474               ->                    0116                  11,24
@@ -390,18 +390,18 @@ D024            16                    18                    ->                  
 0142            9,10                  ->                    2                     512,462
 
 ;±ÈÆæ¿óÇø
-[D401           ·Ï¿óÈë¿Ú]              MINE DARK
-[D411           ¿óÇøBÒ»²ã]             MINE DARK
-[D413           ¿óÇøAÒ»²ã]             MINE DARK
-[D402           ·Ï¿óÇø¶«²¿]            MINE DARK
-[D414           ¿óÇøCÒ»²ã]             MINE DARK
-[D403           ¿óÇøÒ»²ã]              MINE DARK
-[D412           ÇÅ]                    MINE DARK
-[D404           ¿óÇøB¶þ²ã]             MINE DARK
-[D416           ÇÅ]                    MINE DARK
-[D405           ¿óÎï»ØÊÕÕ¾]            MINE DARK
-[D415           ÇÅ]                    MINE DARK
-[D406           ·Ï¿óÇøÄÏ²¿]            MINE DARK
+[D401           ·Ï¿óÈë¿Ú]    NOMANNOMON              MINE DARK
+[D411           ¿óÇøBÒ»²ã]    NOMANNOMON             MINE DARK
+[D413           ¿óÇøAÒ»²ã]    NOMANNOMON             MINE DARK
+[D402           ·Ï¿óÇø¶«²¿]    NOMANNOMON            MINE DARK
+[D414           ¿óÇøCÒ»²ã]    NOMANNOMON             MINE DARK
+[D403           ¿óÇøÒ»²ã]    NOMANNOMON              MINE DARK
+[D412           ÇÅ]    NOMANNOMON                    MINE DARK
+[D404           ¿óÇøB¶þ²ã]    NOMANNOMON             MINE DARK
+[D416           ÇÅ]    NOMANNOMON                    MINE DARK
+[D405           ¿óÎï»ØÊÕÕ¾]    NOMANNOMON            MINE DARK
+[D415           ÇÅ]    NOMANNOMON                    MINE DARK
+[D406           ·Ï¿óÇøÄÏ²¿]    NOMANNOMON            MINE DARK
 
 0               664,212               ->                    D401                  25,181
 0               664,213               ->                    D401                  24,181
@@ -444,8 +444,8 @@ D406            23,15                 ->                    D411                
 D411            95,49                 ->                    D406                  24,16
 
 ;¶¾Éß¿óÇø
-[D421           É½¹È¿óÇøÒ»²ã]          MINE DARK
-[D422           É½¹È¿óÇø¶þ²ã]          MINE DARK
+[D421           É½¹È¿óÇøÒ»²ã]    NOMANNOMON          MINE DARK
+[D422           É½¹È¿óÇø¶þ²ã]    NOMANNOMON          MINE DARK
 
 2               564,169               ->                    D421                  30,374
 D421            30,375                ->                    2                     564,171
@@ -454,19 +454,19 @@ D421            361,19                ->                    D422                
 D422            22,42                 ->                    D421                  361,20
 
 ;ÌØÊâµØÍ¼
-[F001           ¾öÕ½µØ1               0]                     NORECALL FIGHT3
-[F002           ¾öÕ½µØ2               0]                     NORECALL FIGHT3
-[F003           Éß¹ÈÐÐ»áÕ½µØÍ¼        ]                      NORECALL FIGHT3
-[F004           Å«Á¥É½¹È              0]                     NORECALL NORECONNECT(0148)
-[F005           ¾öÕ½µØ4               0]                     NORECALL FIGHT3
-[F006           ËøÁú¹Ø                0]                     NORECALL FIGHT
-[F007           ¾öÕ½µØ6               0]                     NORECALL FIGHT3
-[F008           ¾öÕ½µØ7               0]                     NORECALL FIGHT3
-[F009           ¾öÕ½µØ8               0]                     NORECALL FIGHT3
-[F010           ¾öÕ½µØ9               0]                     NORECALL FIGHT3
+[F001           ¾öÕ½µØ1               0]    NOMANNOMON                     NORECALL FIGHT3
+[F002           ¾öÕ½µØ2               0]    NOMANNOMON                     NORECALL FIGHT3
+[F003           Éß¹ÈÐÐ»áÕ½µØÍ¼        ]    NOMANNOMON                      NORECALL FIGHT3
+[F004           Å«Á¥É½¹È              0]    NOMANNOMON                     NORECALL NORECONNECT(0148)
+[F005           ¾öÕ½µØ4               0]    NOMANNOMON                     NORECALL FIGHT3
+[F006           ËøÁú¹Ø                0]    NOMANNOMON                     NORECALL FIGHT
+[F007           ¾öÕ½µØ6               0]    NOMANNOMON                     NORECALL FIGHT3
+[F008           ¾öÕ½µØ7               0]    NOMANNOMON                     NORECALL FIGHT3
+[F009           ¾öÕ½µØ8               0]    NOMANNOMON                     NORECALL FIGHT3
+[F010           ¾öÕ½µØ9               0]    NOMANNOMON                     NORECALL FIGHT3
 
 3               618,117               ->                    f006                  100,100
-[3              ÃËÖØÊ¡]
+[3              ÃËÖØÊ¡]    NOMANNOMON
 2               296,58                ->                    3                     273,750
 2               297,58                ->                    3                     274,750
 2               297,59                ->                    3                     274,751
@@ -539,17 +539,17 @@ D422            22,42                 ->                    D421                
 3               513,780               ->                    2                     558,80
 3               514,780               ->                    2                     559,80
 
-[0143           Ãñ·¿                  ]                      FIGHT
-[0144           Ãñ·¿                  ]                      FIGHT
-[0145           ²Ö¿â                  ]                      FIGHT
-[0146           ²Ö¿â¶þÂ¥]              FIGHT
-[0147           ÍÁ³Ç¼àÓü]              FIGHT
-[0148           ¿ÍÕ»                  ]                      FIGHT
-[0149           ·þÊÎµê                ]                      FIGHT
-[0158           ÊÎÆ·µê                ]                      FIGHT
-[0159           ÎäÆ÷µê                ]                      FIGHT
-[0160           ÊÛÒ©·¿                ]                      FIGHT
-[0161           Êéµê                  ]                      FIGHT
+[0143           Ãñ·¿                  ]    NOMANNOMON                      FIGHT
+[0144           Ãñ·¿                  ]    NOMANNOMON                      FIGHT
+[0145           ²Ö¿â                  ]    NOMANNOMON                      FIGHT
+[0146           ²Ö¿â¶þÂ¥]    NOMANNOMON              FIGHT
+[0147           ÍÁ³Ç¼àÓü]    NOMANNOMON              FIGHT
+[0148           ¿ÍÕ»                  ]    NOMANNOMON                      FIGHT
+[0149           ·þÊÎµê                ]    NOMANNOMON                      FIGHT
+[0158           ÊÎÆ·µê                ]    NOMANNOMON                      FIGHT
+[0159           ÎäÆ÷µê                ]    NOMANNOMON                      FIGHT
+[0160           ÊÛÒ©·¿                ]    NOMANNOMON                      FIGHT
+[0161           Êéµê                  ]    NOMANNOMON                      FIGHT
 
 3               276,320               ->                    0143                  15,20
 0143            16,20                 ->                    3                     277,320
@@ -587,13 +587,13 @@ D422            22,42                 ->                    D421                
 0158            22,13                 ->                    3                     301,294
 
 ;É³°Í¿Ë
-[0150           É³°Í¿Ë»Ê¹¬]            NORANDOMMOVE NOPOSITIONMOVE
-[0151           ÎäÆ÷µê]                FIGHT
-[0152           ²Ö¿â]                  FIGHT
-[0153           Ò©Æ·µê]                FIGHT
-[0154           ÊÎÆ·µê]                FIGHT
-[0155           ·þ×°µê]                FIGHT
-[0156           ¼àÓü]                  FIGHT
+[0150           É³°Í¿Ë»Ê¹¬]    NOMANNOMON            NORANDOMMOVE NOPOSITIONMOVE
+[0151           ÎäÆ÷µê]    NOMANNOMON                FIGHT
+[0152           ²Ö¿â]    NOMANNOMON                  FIGHT
+[0153           Ò©Æ·µê]    NOMANNOMON                FIGHT
+[0154           ÊÎÆ·µê]    NOMANNOMON                FIGHT
+[0155           ·þ×°µê]    NOMANNOMON                FIGHT
+[0156           ¼àÓü]    NOMANNOMON                  FIGHT
 
 3               630,274               ->                    0150                  15,19
 3               631,273               ->                    0150                  16,18
@@ -635,30 +635,30 @@ D422            22,42                 ->                    D421                
 0156            10,16                 ->                    3                     601,283
 
 ;×æÂêÃí
-[0157           ×æÂêËÂÃí´óµî]          DARK
-[D501           ×æÂêËÂÃíÒ»²ã]          DARK
-[D502           ×æÂêËÂÃí¶þ²ã]          DARK
-[D503           ×æÂêËÂÃíÈý²ã]          DARK
-[D504           ×æÂêËÂÃíËÄ²ã]          DARK
-[D505           ×æÂêËÂÃíÎå²ã]          DARK
-[D5061          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5062          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5063          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5064          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5065          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5066          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5067          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5068          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5069          ×æÂê¸ó]                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
-[D5071          ×æÂêÁù²ã´óÌü]          NORECALL NOPOSITIONMOVE DARK
-[D5072          ×æÂêÆß²ãÒ»]            NORECALL NORANDOMMOVE NORECONNECT(D5071) NOPOSITIONMOVE DARK
-[D5073          ×æÂêÆß²ã¶þ]            NORECALL NORANDOMMOVE NORECONNECT(D5071) NOPOSITIONMOVE DARK
-[D5074          ×æÂêÆß²ãÈý]            NORECALL NORANDOMMOVE NORECONNECT(D5071) NOPOSITIONMOVE DARK
-[D511           Í¼Êé¹Ý                ]                      DARK
-[D512           Í¼Êé¹Ý                ]                      DARK
-[D513           Í¼Êé¹Ý                ]                      DARK
-[D514           Í¼Êé¹Ý                ]                      DARK
-[D515           ×æÂê½ÌÖ÷Ö®¼Ò]          NORECALL NORANDOMMOVE NORECONNECT(D5071) DARK
+[0157           ×æÂêËÂÃí´óµî]    NOMANNOMON          DARK
+[D501           ×æÂêËÂÃíÒ»²ã]    NOMANNOMON          DARK
+[D502           ×æÂêËÂÃí¶þ²ã]    NOMANNOMON          DARK
+[D503           ×æÂêËÂÃíÈý²ã]    NOMANNOMON          DARK
+[D504           ×æÂêËÂÃíËÄ²ã]    NOMANNOMON          DARK
+[D505           ×æÂêËÂÃíÎå²ã]    NOMANNOMON          DARK
+[D5061          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5062          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5063          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5064          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5065          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5066          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5067          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5068          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5069          ×æÂê¸ó]    NOMANNOMON                NORANDOMMOVE NORECALL NOPOSITIONMOVE DARK
+[D5071          ×æÂêÁù²ã´óÌü]    NOMANNOMON          NORECALL NOPOSITIONMOVE DARK
+[D5072          ×æÂêÆß²ãÒ»]    NOMANNOMON            NORECALL NORANDOMMOVE NORECONNECT(D5071) NOPOSITIONMOVE DARK
+[D5073          ×æÂêÆß²ã¶þ]    NOMANNOMON            NORECALL NORANDOMMOVE NORECONNECT(D5071) NOPOSITIONMOVE DARK
+[D5074          ×æÂêÆß²ãÈý]    NOMANNOMON            NORECALL NORANDOMMOVE NORECONNECT(D5071) NOPOSITIONMOVE DARK
+[D511           Í¼Êé¹Ý                ]    NOMANNOMON                      DARK
+[D512           Í¼Êé¹Ý                ]    NOMANNOMON                      DARK
+[D513           Í¼Êé¹Ý                ]    NOMANNOMON                      DARK
+[D514           Í¼Êé¹Ý                ]    NOMANNOMON                      DARK
+[D515           ×æÂê½ÌÖ÷Ö®¼Ò]    NOMANNOMON          NORECALL NORANDOMMOVE NORECONNECT(D5071) DARK
 
 3               862,174               ->                    0157                  9,25
 3               863,174               ->                    0157                  10,26
@@ -1160,7 +1160,7 @@ D5074           48,91                 ->                    D5073               
 0161            7,17                  ->                    3                     410,323
 
 ;É³°Í¿Ë°µµÀ
-[D701           ÃØÃÜÍ¨µÀ]              DARK
+[D701           ÃØÃÜÍ¨µÀ]    NOMANNOMON              DARK
 3               564,287               ->                    D701                  28,22
 3               564,286               ->                    D701                  28,22
 D701            27,23                 ->                    3                     563,286
@@ -1173,44 +1173,44 @@ D701            31,128                ->                    3                   
 3               578,296               ->                    D701                  32,127
 
 ;Öí¶´
-[D710           Ê¯Ä¹Èë¿Ú]              DARK
-[D711           Ê¯Ä¹Ò»²ã]              DARK
-[D712           Ê¯Ä¹¶þ²ã]              DARK
-[D713           Ê¯Ä¹Èý²ã]              DARK
-[D714           Ê¯Ä¹ËÄ²ã]              DARK
-[D715           Ê¯Ä¹Îå²ã]              DARK
-[D716           Ê¯Ä¹Áù²ã]NORECALL      DARK
-[D717           Ê¯Ä¹Æß²ã]              NORECALL NORECONNECT(D71601) DARK
-[D71601         Ê¯Ä¹Õó]                NORECALL DARK
-[D71602         Ê¯Ä¹Õó]                NORECALL DARK
-[D71603         Ê¯Ä¹Õó]                NORECALL DARK
-[D71604         Ê¯Ä¹Õó]                NORECALL DARK
-[D71605         Ê¯Ä¹Õó]                NORECALL DARK
-[D71606         Ê¯Ä¹Õó]                NORECALL DARK
-[D71607         Ê¯Ä¹Õó]                NORECALL DARK
-[D71608         Ê¯Ä¹Õó]                NORECALL DARK
-[D71609         Ê¯Ä¹Õó]                NORECALL DARK
-[D71610         Ê¯Ä¹Õó]                NORECALL DARK
-[D71611         Ê¯Ä¹Õó]                NORECALL DARK
-[D71612         Ê¯Ä¹Õó]                NORECALL DARK
-[D71613         Ê¯Ä¹Õó]                NORECALL DARK
-[D71614         Ê¯Ä¹Õó]                NORECALL DARK
-[D71615         Ê¯Ä¹Õó]                NORECALL DARK
-[D71616         Ê¯Ä¹Õó]                NORECALL DARK
-[D71617         Ê¯Ä¹Õó]                NORECALL DARK
-[D71618         Ê¯Ä¹Õó]                NORECALL DARK
-[D71619         Ê¯Ä¹Õó]                NORECALL DARK
-[D71620         Ê¯Ä¹Õó]                NORECALL DARK
-[D71621         Ê¯Ä¹Õó]                NORECALL DARK
-[D71622         Ê¯Ä¹Õó]                NORECALL DARK
-[D71623         Ê¯Ä¹Õó]                NORECALL DARK
-[D71624         Ê¯Ä¹Õó]                NORECALL DARK
-[D71625         Ê¯Ä¹Õó]                NORECALL DARK
-[D71650         ÎäÆ÷ÐÞÀí¼ä            ]                      NORECALL
-[D71651         ·þ×°ÐÞÀí¼ä            ]                      NORECALL
-[D71652         Ê×ÊÎÐÞÀí¼ä            ]                      NORECALL
-[D71653         Ò©Æ·³öÊÛ¼ä            ]                      NORECALL
-[R001           ÌÒÔ´Ö®ÃÅ              ]                      NEEDHOLE NORECALL NORECONNECT(D71601)
+[D710           Ê¯Ä¹Èë¿Ú]    NOMANNOMON              DARK
+[D711           Ê¯Ä¹Ò»²ã]    NOMANNOMON              DARK
+[D712           Ê¯Ä¹¶þ²ã]    NOMANNOMON              DARK
+[D713           Ê¯Ä¹Èý²ã]    NOMANNOMON              DARK
+[D714           Ê¯Ä¹ËÄ²ã]    NOMANNOMON              DARK
+[D715           Ê¯Ä¹Îå²ã]    NOMANNOMON              DARK
+[D716           Ê¯Ä¹Áù²ã]    NOMANNOMONNORECALL      DARK
+[D717           Ê¯Ä¹Æß²ã]    NOMANNOMON              NORECALL NORECONNECT(D71601) DARK
+[D71601         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71602         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71603         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71604         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71605         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71606         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71607         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71608         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71609         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71610         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71611         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71612         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71613         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71614         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71615         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71616         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71617         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71618         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71619         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71620         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71621         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71622         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71623         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71624         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71625         Ê¯Ä¹Õó]    NOMANNOMON                NORECALL DARK
+[D71650         ÎäÆ÷ÐÞÀí¼ä            ]    NOMANNOMON                      NORECALL
+[D71651         ·þ×°ÐÞÀí¼ä            ]    NOMANNOMON                      NORECALL
+[D71652         Ê×ÊÎÐÞÀí¼ä            ]    NOMANNOMON                      NORECALL
+[D71653         Ò©Æ·³öÊÛ¼ä            ]    NOMANNOMON                      NORECALL
+[R001           ÌÒÔ´Ö®ÃÅ              ]    NOMANNOMON                      NEEDHOLE NORECALL NORECONNECT(D71601)
 
 D717            83,25                 ->                    R001                  162,169
 
@@ -1354,17 +1354,17 @@ D71651          13,37                 ->                    D71610              
 D71652          17,12                 ->                    D71602                36,34
 D71653          17,12                 ->                    D71603                36,34
 
-[D601           µØÀÎÒ»²ã¶«]            DARK
-[D602           µØÀÎÒ»²ãÎ÷]            DARK
-[D603           µØÀÎÒ»²ã±±]            DARK
-[D604           µØÀÎÒ»²ãÎ÷]            DARK
-[D605           µØÀÎÒ»²ã±±]            DARK
-[D606           ËÀÍö¹×²Ä]              DARK
-[D607           ÌúµÆÁýÎÝ              ]                      DARK
-[D608           ×ÏË®¾§ÎÝ              ]                      DARK
-[D609           Ê¯Â·Ð¡Ïª]              DARK
-[D610           Ê¯¹×²ÄÎÝ]              DARK
-[D611           Ê¯Â·Á¬½ÓÍ¨µÀ]          DARK
+[D601           µØÀÎÒ»²ã¶«]    NOMANNOMON            DARK
+[D602           µØÀÎÒ»²ãÎ÷]    NOMANNOMON            DARK
+[D603           µØÀÎÒ»²ã±±]    NOMANNOMON            DARK
+[D604           µØÀÎÒ»²ãÎ÷]    NOMANNOMON            DARK
+[D605           µØÀÎÒ»²ã±±]    NOMANNOMON            DARK
+[D606           ËÀÍö¹×²Ä]    NOMANNOMON              DARK
+[D607           ÌúµÆÁýÎÝ              ]    NOMANNOMON                      DARK
+[D608           ×ÏË®¾§ÎÝ              ]    NOMANNOMON                      DARK
+[D609           Ê¯Â·Ð¡Ïª]    NOMANNOMON              DARK
+[D610           Ê¯¹×²ÄÎÝ]    NOMANNOMON              DARK
+[D611           Ê¯Â·Á¬½ÓÍ¨µÀ]    NOMANNOMON          DARK
 
 3               139,85                ->                    D601                  207,236
 D601            208,238               ->                    3                     140,87
@@ -1409,13 +1409,13 @@ D606            193,124               ->                    D619                
 ;D609           22,13                 ->                    D606                  192,123
 
 ;ËÀÍöÉ½¹ÈÖ÷¶´Ñ¨
-[D612           ºÚ°µµØ´ø]              DARK
-[D613           ÉúËÀÖ®¼ä]              DARK
-[D614           ´«Ææ²¿Âä]              DARK
-[D615           Ð°¶ñÊÆÁ¦]              DARK
-[D616           ÓÄÃ÷Ê¥Óò]              DARK
-[D617           ¿Ö²À¿Õ¼ä]              DARK
-[D618           Ò»ÏßÌì                ]                      DARK
+[D612           ºÚ°µµØ´ø]    NOMANNOMON              DARK
+[D613           ÉúËÀÖ®¼ä]    NOMANNOMON              DARK
+[D614           ´«Ææ²¿Âä]    NOMANNOMON              DARK
+[D615           Ð°¶ñÊÆÁ¦]    NOMANNOMON              DARK
+[D616           ÓÄÃ÷Ê¥Óò]    NOMANNOMON              DARK
+[D617           ¿Ö²À¿Õ¼ä]    NOMANNOMON              DARK
+[D618           Ò»ÏßÌì                ]    NOMANNOMON                      DARK
 
 D609            22,13                 ->                    D612                  200,52
 D612            199,51                ->                    D609                  22,14
@@ -1450,9 +1450,9 @@ D618            53,21                 ->                    D617                
 D618            160,170               ->                    D606                  10,26
 D606            9,25                  ->                    D618                  159,171
 
-[E701           ÏãÊ¯¹ÅÄ¹Ò»²ã]          DARK
-[E702           ÏãÊ¯¹ÅÄ¹¶þ²ã]          DARK
-[E703           ÏãÊ¯¹ÅÄ¹Èý²ã]          DARK
+[E701           ÏãÊ¯¹ÅÄ¹Ò»²ã]    NOMANNOMON          DARK
+[E702           ÏãÊ¯¹ÅÄ¹¶þ²ã]    NOMANNOMON          DARK
+[E703           ÏãÊ¯¹ÅÄ¹Èý²ã]    NOMANNOMON          DARK
 
 D701            172,79                ->                    E701                  12,18
 E701            12,17                 ->                    D701                  173,78
@@ -1467,8 +1467,8 @@ E703            58,84                 ->                    D712                
 D712            206,223               ->                    E703                  59,83
 
 ;ÎÖÂê×ÔÈ»¶´Ñ¨
-[E001           ÎÖÂê×ÔÈ»¶´Ñ¨Ò»²ã]      DARK
-[E002           ÎÖÂê×ÔÈ»¶´Ñ¨¶þ²ã]      DARK
+[E001           ÎÖÂê×ÔÈ»¶´Ñ¨Ò»²ã]    NOMANNOMON      DARK
+[E002           ÎÖÂê×ÔÈ»¶´Ñ¨¶þ²ã]    NOMANNOMON      DARK
 
 D003            78,229                ->                    E001                  9,14
 E001            8,13                  ->                    D003                  77,230
@@ -1480,10 +1480,10 @@ E002            36,81                 ->                    D012                
 D012            377,64                ->                    E002                  35,82
 
 ;°ëÊÞ¶´Ñ¨Á¬½ÓÍ¨µÀ
-[E401           Á¬½ÓÍ¨µÀ]              DARK
-[E402           Á¬½ÓÍ¨µÀ]              DARK
-[E403           Á¬½ÓÍ¨µÀ]              DARK
-[E404           Á¬½ÓÍ¨µÀ]              DARK
+[E401           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
+[E402           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
+[E403           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
+[E404           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
 
 D003            290,293               ->                    E401                  14,10
 E401            15,9                  ->                    D003                  291,294
@@ -1501,11 +1501,11 @@ E404            69,56                 ->                    D404                
 D404            152,19                ->                    E404                  68,55
 
 ;¶¾Éß¿óÇø-ËÀÍöÉ½
-[E601           Á¬½ÓÍ¨µÀ]              DARK
-[E602           Á¬½ÓÍ¨µÀ]              DARK
-[E603           Á¬½ÓÍ¨µÀ]              DARK
-[E604           Á¬½ÓÍ¨µÀ]              DARK
-[E605           Á¬½ÓÍ¨µÀ]              DARK
+[E601           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
+[E602           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
+[E603           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
+[E604           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
+[E605           Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK
 
 D422            331,383               ->                    E601                  135,19
 E601            134,20                ->                    D422                  330,382
@@ -1529,14 +1529,14 @@ E605            13,63                 ->                    D601                
 D601            9,197                 ->                    E605                  13,64
 
 ;¶¾Éß¿óÇøÁ¬½ÓÍ¨µÀ
-[M001           Î´Öª°µµî              ]                      NORECALL NORECONNECT(E603) DARK
+[M001           Î´Öª°µµî              ]    NOMANNOMON                      NORECALL NORECONNECT(E603) DARK
 
 ;ÈÎÎñµØÍ¼
-[Q001A|Q001     Î´ÖªÇøÓò              ]                      DARK NORECALL NORECONNECT(11)
-[Q001           Ð¡ÎÝ1                 0]                     DARK NORECALL NORECONNECT(1)
-[Q002           Ð¡ÎÝ2                 0]                     DARK NORECALL NORECONNECT(1)
-[Q003           Ð¡ÎÝ3                 0]                     DARK NORECALL NORECONNECT(0)
-[Q004           Ê¬Íõµî                ]                      NEEDHOLE NORECALL NORECONNECT(D406) DARK
+[Q001A|Q001     Î´ÖªÇøÓò              ]    NOMANNOMON                      DARK NORECALL NORECONNECT(11)
+[Q001           Ð¡ÎÝ1                 0]    NOMANNOMON                     DARK NORECALL NORECONNECT(1)
+[Q002           Ð¡ÎÝ2                 0]    NOMANNOMON                     DARK NORECALL NORECONNECT(1)
+[Q003           Ð¡ÎÝ3                 0]    NOMANNOMON                     DARK NORECALL NORECONNECT(0)
+[Q004           Ê¬Íõµî                ]    NOMANNOMON                      NEEDHOLE NORECALL NORECONNECT(D406) DARK
 
 D401            148,88                ->                    Q004                  14,14
 D401            149,89                ->                    Q004                  14,14
@@ -1578,12 +1578,12 @@ D422            240,68                ->                    Q004                
 D422            240,69                ->                    Q004                  14,14
 D422            239,69                ->                    Q004                  14,14
 
-[Q011           Á¬½ÓÍ¨µÀ              0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
-[Q012           ÌìµØÃÔ¹¬              0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
-[Q013           ÌìµØÃÔ¹¬              0]                     DARK NORECALL NORANDOMMOVE NOREBONNECT(D002) NOPOSITIONMOVE
-[Q014           ÌìµØÃÔ¹¬              0]                     DARK NORECALL NORANDOMMOVE NOREBONNECT(D002) NOPOSITIONMOVE
-[Q015           Á¬½ÓÍ¨µÀ              0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
-[Q016           ÉñÃØÉÌµê              0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
+[Q011           Á¬½ÓÍ¨µÀ              0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
+[Q012           ÌìµØÃÔ¹¬              0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
+[Q013           ÌìµØÃÔ¹¬              0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NOREBONNECT(D002) NOPOSITIONMOVE
+[Q014           ÌìµØÃÔ¹¬              0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NOREBONNECT(D002) NOPOSITIONMOVE
+[Q015           Á¬½ÓÍ¨µÀ              0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
+[Q016           ÉñÃØÉÌµê              0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(D002) NOPOSITIONMOVE
 
 ;;              1¹øÂ°                 ¸Ê¿¡                  ¸µÅ©                  ÁÂÇ¥
 
@@ -2737,78 +2737,78 @@ Q014            22,39                 ->                    Q013                
 Q014            23,38                 ->                    Q013                  23,38
 Q014            23,39                 ->                    Q013                  23,39
 
-[B010           ¶Ä³¡×ßÀÈ              0]                     DARK FIGHT NORECALL
-[B011           ¶Ä³¡                  0]                     DARK FIGHT NORECALL
-[B012           ¶Ä³¡                  0]                     DARK FIGHT NORECALL
-[B013           ¶Ä³¡                  0]                     DARK FIGHT NORECALL
+[B010           ¶Ä³¡×ßÀÈ              0]    NOMANNOMON                     DARK FIGHT NORECALL
+[B011           ¶Ä³¡                  0]    NOMANNOMON                     DARK FIGHT NORECALL
+[B012           ¶Ä³¡                  0]    NOMANNOMON                     DARK FIGHT NORECALL
+[B013           ¶Ä³¡                  0]    NOMANNOMON                     DARK FIGHT NORECALL
 
 B010            16,16                 ->                    0101                  8,7
 B010            16,60                 ->                    0101                  8,7
 B010            66,30                 ->                    0101                  8,7
 
-[B101           ×¼±¸·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B102           ÊÔÁ·ÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B103           á÷ÁÔ·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B104           ÐÒÔË·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B105           »î¶¯ÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B106           ÍöÁé¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B107           ¶Ä²©ÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B108           ·çÔÂ¸ó                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B109           ²×ÀÇÌü                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B110           ·çÔÂ¸ó                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B111           Òýµ¼·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B112           áÝáåÎÝ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B113           Ñ¡Ôñ·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B114           ·çÔÂ¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B115           ¿ó·ò·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B116           ÃÔÃ£¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B117           ÕÙ»½·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B118           ÍöÁé¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B119           Ä¥ÄÑ·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B120           ¶Ä²©ÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B121           ¼¯ÍÅ·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B122           Ñýºìµî                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B123           Æ½°²·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B124           ÉËº¦¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B125           À¶¿Õ¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B126           Ð¡ÔÂ¸ó                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B127           ¶Ä³¡                  0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B128           ÒÉ»óÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B129           ÖñÔÏ¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B130           ¶òÔË·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B131           ÉóÅÐ¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B132           Á¶µ¤ÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B133           ÏÝÚå·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B134           ÂÞºº¼ä                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B135           ÂÃÐÐ¸ó                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B136           Ñï»¨ÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B137           Ñï»¨ÊÒ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B138           ÉúËÀ¹Ø                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B139           °µºÚ·¿                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
-[B140           ÖÕ½áµØ                0]                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B101           ×¼±¸·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B102           ÊÔÁ·ÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B103           á÷ÁÔ·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B104           ÐÒÔË·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B105           »î¶¯ÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B106           ÍöÁé¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B107           ¶Ä²©ÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B108           ·çÔÂ¸ó                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B109           ²×ÀÇÌü                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B110           ·çÔÂ¸ó                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B111           Òýµ¼·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B112           áÝáåÎÝ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B113           Ñ¡Ôñ·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B114           ·çÔÂ¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B115           ¿ó·ò·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B116           ÃÔÃ£¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B117           ÕÙ»½·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B118           ÍöÁé¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B119           Ä¥ÄÑ·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B120           ¶Ä²©ÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B121           ¼¯ÍÅ·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B122           Ñýºìµî                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B123           Æ½°²·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B124           ÉËº¦¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B125           À¶¿Õ¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B126           Ð¡ÔÂ¸ó                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B127           ¶Ä³¡                  0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B128           ÒÉ»óÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B129           ÖñÔÏ¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B130           ¶òÔË·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B131           ÉóÅÐ¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B132           Á¶µ¤ÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B133           ÏÝÚå·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B134           ÂÞºº¼ä                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B135           ÂÃÐÐ¸ó                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B136           Ñï»¨ÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B137           Ñï»¨ÊÒ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B138           ÉúËÀ¹Ø                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B139           °µºÚ·¿                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[B140           ÖÕ½áµØ                0]    NOMANNOMON                     DARK FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
 
-[T103           á÷ÁÔ·¿                0]                     DAY NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T105           »î¶¯ÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1061A|T1061   ÍöÁé¼ä                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1062          ÍöÁé¼ä                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1063          ÍöÁé¼ä                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T109           ²×ÀÇÌü                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T115           ¿ó·ò·¿                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011) MINE
-[T118A|T118     ÍöÁé¼ä                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T119           Ä¥ÄÑ·¿                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T125           À¶¿Õ¼ä                0]                     SAFE DAY NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1281          ÒÉ»óÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1282          ÒÉ»óÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1283          ÒÉ»óÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T131           ÉóÅÐ¼ä                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T132           Á¶µ¤ÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T134           ÂÞºº¼ä                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1361          Ñï»¨ÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1362          Ñï»¨ÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T1363          Ñï»¨ÊÒ                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T138           ÉúËÀ¹Ø                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T139           °µºÚ·¿                0]                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
-[T140           ÖÕ½áµØ                0]                     DAY FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T103           á÷ÁÔ·¿                0]    NOMANNOMON                     DAY NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T105           »î¶¯ÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1061A|T1061   ÍöÁé¼ä                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1062          ÍöÁé¼ä                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1063          ÍöÁé¼ä                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T109           ²×ÀÇÌü                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T115           ¿ó·ò·¿                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011) MINE
+[T118A|T118     ÍöÁé¼ä                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T119           Ä¥ÄÑ·¿                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T125           À¶¿Õ¼ä                0]    NOMANNOMON                     SAFE DAY NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1281          ÒÉ»óÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1282          ÒÉ»óÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1283          ÒÉ»óÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T131           ÉóÅÐ¼ä                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T132           Á¶µ¤ÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T134           ÂÞºº¼ä                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1361          Ñï»¨ÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1362          Ñï»¨ÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T1363          Ñï»¨ÊÒ                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T138           ÉúËÀ¹Ø                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T139           °µºÚ·¿                0]    NOMANNOMON                     DARK NORECALL NORANDOMMOVE NORECONNECT(B011)
+[T140           ÖÕ½áµØ                0]    NOMANNOMON                     DAY FIGHT NORECALL NORANDOMMOVE NORECONNECT(B011)
 
 B010            56,20                 ->                    B011                  11,13
 B011            12,14                 ->                    B010                  57,21
@@ -2862,16 +2862,16 @@ T1283           17,22                 ->                    T1281               
 T1281           28,20                 ->                    T1283                 25,35
 T1283           28,32                 ->                    T1282                 16,34
 
-[11             °×ÈÕÃÅ                ]
-[12             ´ÔÁÖÃÔ¹¬              ]
-[0123A|0123     ÃÜÊÒ                  ]                      FIGHT
-[1001           °×ÈÕÃÅÎäÆ÷¿â          ]                      FIGHT
-[1002           °×ÈÕÃÅ¹Ý³¤ÎÝ          ]                      FIGHT
-[1003           °×ÈÕÃÅ·þ×°µê          ]                      FIGHT
-[1004           °×ÈÕÃÅÍ¼Êé¹Ý          ]                      FIGHT
-[1005           °×ÈÕÃÅÊÎÆ·ÎÝ          ]                      FIGHT
-[1006           °×ÈÕÃÅÒ©Æ·ÎÝ          ]                      FIGHT
-[1007           °×ÈÕÃÅÔÓ»õµê          ]                      FIGHT
+[11             °×ÈÕÃÅ                ]    NOMANNOMON
+[12             ´ÔÁÖÃÔ¹¬              ]    NOMANNOMON
+[0123A|0123     ÃÜÊÒ                  ]    NOMANNOMON                      FIGHT
+[1001           °×ÈÕÃÅÎäÆ÷¿â          ]    NOMANNOMON                      FIGHT
+[1002           °×ÈÕÃÅ¹Ý³¤ÎÝ          ]    NOMANNOMON                      FIGHT
+[1003           °×ÈÕÃÅ·þ×°µê          ]    NOMANNOMON                      FIGHT
+[1004           °×ÈÕÃÅÍ¼Êé¹Ý          ]    NOMANNOMON                      FIGHT
+[1005           °×ÈÕÃÅÊÎÆ·ÎÝ          ]    NOMANNOMON                      FIGHT
+[1006           °×ÈÕÃÅÒ©Æ·ÎÝ          ]    NOMANNOMON                      FIGHT
+[1007           °×ÈÕÃÅÔÓ»õµê          ]    NOMANNOMON                      FIGHT
 
 1               43,34                 ->                    11                    46,481
 1               44,33                 ->                    11                    47,480
@@ -2915,18 +2915,18 @@ T1283           28,32                 ->                    T1282               
 1001            5,18                  ->                    11                    224,301
 1002            9,18                  ->                    11                    227,269
 
-[D10011         ³àÔÂÏ¿¹È¶«×ßÀÈ]        MINE DARK
-[D10012         ³àÔÂÏ¿¹ÈÎ÷×ßÀÈ]        MINE DARK
-[D10013         ³àÔÂÏ¿¹ÈÎ÷»ØËíµÀ]      MINE DARK
-[D1002          ³àÔÂÏ¿¹È¶«¶þ²ã]        MINE DARK
-[D10031         ³àÔÂÏ¿¹È¹ã³¡]          MINE DARK
-[D10032         ³àÔÂÏ¿¹È¶«³¤ÀÈ]        MINE DARK
-[D1004          ¾ñÔñÖ®µØ]              MINE DARK
-[D10051         É½¹ÈÃØµÀ]              MINE DARK
-[D10052         É½¹ÈÃØµÀ]              MINE DARK
-[D10061         ¶ñÄ§¼ÀÌ³]              NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL DARK
-[D10062         ³àÔÂÄ§Ñ¨]              NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL DARK
-[D10071         ¶ñÄ§¾öÕ½³²Ñ¨          ]                      NORECALL NORECONNECT(D10031) DARK
+[D10011         ³àÔÂÏ¿¹È¶«×ßÀÈ]    NOMANNOMON        MINE DARK
+[D10012         ³àÔÂÏ¿¹ÈÎ÷×ßÀÈ]    NOMANNOMON        MINE DARK
+[D10013         ³àÔÂÏ¿¹ÈÎ÷»ØËíµÀ]    NOMANNOMON      MINE DARK
+[D1002          ³àÔÂÏ¿¹È¶«¶þ²ã]    NOMANNOMON        MINE DARK
+[D10031         ³àÔÂÏ¿¹È¹ã³¡]    NOMANNOMON          MINE DARK
+[D10032         ³àÔÂÏ¿¹È¶«³¤ÀÈ]    NOMANNOMON        MINE DARK
+[D1004          ¾ñÔñÖ®µØ]    NOMANNOMON              MINE DARK
+[D10051         É½¹ÈÃØµÀ]    NOMANNOMON              MINE DARK
+[D10052         É½¹ÈÃØµÀ]    NOMANNOMON              MINE DARK
+[D10061         ¶ñÄ§¼ÀÌ³]    NOMANNOMON              NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL DARK
+[D10062         ³àÔÂÄ§Ñ¨]    NOMANNOMON              NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL DARK
+[D10071         ¶ñÄ§¾öÕ½³²Ñ¨          ]    NOMANNOMON                      NORECALL NORECONNECT(D10031) DARK
 
 D10011          270,385               ->                    12                    90,14
 12              89,13                 ->                    D10011                269,384
@@ -2973,40 +2973,40 @@ D10062          11,25                 ->                    D10052              
 D10071          11,25                 ->                    D10061                15,19
 D10071          11,26                 ->                    D10061                15,19
 
-[T1341          ²»¹éÂ·                0]
+[T1341          ²»¹éÂ·                0]    NOMANNOMON
 D701            101,160               ->                    T1342                 33,8
-[T1342          ²»¹éÂ·                0]
+[T1342          ²»¹éÂ·                0]    NOMANNOMON
 T1342           5,36                  ->                    T1343                 33,8
-[T1343          ²»¹éÂ·                0]
+[T1343          ²»¹éÂ·                0]    NOMANNOMON
 T1343           5,36                  ->                    0123A                 7,5
 11              204,385               ->                    0123A                 13,17
 0123A           12,18                 ->                    11                    204,385
 
-[4              ·âÄ§¹È]
-[B341           ·âÄ§»Ê¹¬]
-[B342           ÎäÆ÷µê]                FIGHT
-[B343           ÊéÒ©µê]                FIGHT
-[B344           Ê×ÊÎµê]                FIGHT
-[B345           ·þ×°µê]                FIGHT
-[B346           ¼àÓü]                  FIGHT
-[B347           ²Ö¿â]                  FIGHT
-[D10053         ÃØÃÜÍ¨µÀ]              DARK
-[D10054         ÃØÃÜÍ¨µÀ]              DARK
-[D2003          ·âÄ§µÀ]                DARK
-[D2000          ·âÄ§¿óÇø]              DARK MINE
-[D2001          ÆéÂ·]                  DARK
-[D2001A|D2001   Î´ÖªÇøÓò              ]                      DARK NORECALL NORECONNECT(D71601)
-[D2002          Á¬½ÓÍ¨µÀ]              DARK NORECONNECT(4)
-[D2004          ¼²·çµî]                DARK
-[D2005          ¹âÃ¢»ØÀÈ]              DARK
-[D2006          ÁÒÑæµî]                DARK
-[D2007          À×öªÖ®Â·]              DARK
-[D2008          °ÔÕß´óÌü]              DARK
-[D2009          ÓÄÚ¤»ØÀÈ]              DARK
-[D2010          ×ÝºáµÀ]                DARK NORECALL
-[D2011          Ä§»êµî]                DARK NORECALL
-[D2012          Á¶Óü»ØÀÈ]              DARK NORECALL
-[D2013          ·âÄ§µî]                DARK NORECALL
+[4              ·âÄ§¹È]    NOMANNOMON
+[B341           ·âÄ§»Ê¹¬]    NOMANNOMON
+[B342           ÎäÆ÷µê]    NOMANNOMON                FIGHT
+[B343           ÊéÒ©µê]    NOMANNOMON                FIGHT
+[B344           Ê×ÊÎµê]    NOMANNOMON                FIGHT
+[B345           ·þ×°µê]    NOMANNOMON                FIGHT
+[B346           ¼àÓü]    NOMANNOMON                  FIGHT
+[B347           ²Ö¿â]    NOMANNOMON                  FIGHT
+[D10053         ÃØÃÜÍ¨µÀ]    NOMANNOMON              DARK
+[D10054         ÃØÃÜÍ¨µÀ]    NOMANNOMON              DARK
+[D2003          ·âÄ§µÀ]    NOMANNOMON                DARK
+[D2000          ·âÄ§¿óÇø]    NOMANNOMON              DARK MINE
+[D2001          ÆéÂ·]    NOMANNOMON                  DARK
+[D2001A|D2001   Î´ÖªÇøÓò              ]    NOMANNOMON                      DARK NORECALL NORECONNECT(D71601)
+[D2002          Á¬½ÓÍ¨µÀ]    NOMANNOMON              DARK NORECONNECT(4)
+[D2004          ¼²·çµî]    NOMANNOMON                DARK
+[D2005          ¹âÃ¢»ØÀÈ]    NOMANNOMON              DARK
+[D2006          ÁÒÑæµî]    NOMANNOMON                DARK
+[D2007          À×öªÖ®Â·]    NOMANNOMON              DARK
+[D2008          °ÔÕß´óÌü]    NOMANNOMON              DARK
+[D2009          ÓÄÚ¤»ØÀÈ]    NOMANNOMON              DARK
+[D2010          ×ÝºáµÀ]    NOMANNOMON                DARK NORECALL
+[D2011          Ä§»êµî]    NOMANNOMON                DARK NORECALL
+[D2012          Á¶Óü»ØÀÈ]    NOMANNOMON              DARK NORECALL
+[D2013          ·âÄ§µî]    NOMANNOMON                DARK NORECALL
 
 B341            26,30                 ->                    4                     219,196
 B341            25,31                 ->                    4                     218,197
@@ -3081,8 +3081,8 @@ D2010           60,150                ->                    D10053              
 D10053          41,91                 ->                    D2008                 38,26
 D10054          79,20                 ->                    D2003                 288,284
 
-[M101           ÒöÔµÉñµî              ]                      FIGHT
-[M100           Í¬ÐÄÐ¡¾¶              ]
+[M101           ÒöÔµÉñµî              ]    NOMANNOMON                      FIGHT
+[M100           Í¬ÐÄÐ¡¾¶              ]    NOMANNOMON
 
 M100            29                    81                    ->                    M101                         12,41
 M101            11,42                 ->                    M100                  29,81
@@ -3091,13 +3091,13 @@ M101            13,44                 ->                    M100                
 B341            11,29                 ->                    M100                  288,284
 M100            288,284               ->                    B341                  11,29
 
-[5              ²ÔÔÂµº]                DAY
-[B351           ÎäÆ÷¿â                0]                     FIGHT
-[B352           ÊÎÆ·ÆÌ                0]                     FIGHT
-[B353           ²¼ÁÏÆÌ                0]                     FIGHT
-[B354           ´¢´æÊÒ                0]                     FIGHT
-[B355           ÌØ²úÆÌ                0]                     FIGHT
-[B356           Ò©·¿                  0]                     FIGHT
+[5              ²ÔÔÂµº]    NOMANNOMON                DAY
+[B351           ÎäÆ÷¿â                0]    NOMANNOMON                     FIGHT
+[B352           ÊÎÆ·ÆÌ                0]    NOMANNOMON                     FIGHT
+[B353           ²¼ÁÏÆÌ                0]    NOMANNOMON                     FIGHT
+[B354           ´¢´æÊÒ                0]    NOMANNOMON                     FIGHT
+[B355           ÌØ²úÆÌ                0]    NOMANNOMON                     FIGHT
+[B356           Ò©·¿                  0]    NOMANNOMON                     FIGHT
 5               127,301               ->                    B351                  11,13
 B351            11,13                 ->                    5                     127,301
 B351            11,14                 ->                    5                     127,301
@@ -3119,9 +3119,9 @@ B355            10,16                 ->                    5                   
 5               167,314               ->                    B356                  10,19
 B356            10,19                 ->                    5                     167,314
 
-[D2051          Ê¬Ä§¶´1²ã]             DARK
-[D2053          Ê¬Ä§¶´2²ã]             DARK
-[D2052          Ê¬Ä§¶´3²ã]             NORECONNECT(5) NORECALL NOPOSITIONMOVE DARK
+[D2051          Ê¬Ä§¶´1²ã]    NOMANNOMON             DARK
+[D2053          Ê¬Ä§¶´2²ã]    NOMANNOMON             DARK
+[D2052          Ê¬Ä§¶´3²ã]    NOMANNOMON             NORECONNECT(5) NORECALL NOPOSITIONMOVE DARK
 5               527,610               ->                    D2051                 107,182
 5               527,611               ->                    D2051                 108,183
 5               528,611               ->                    D2051                 109,183
@@ -3145,11 +3145,11 @@ D2052           93,75                 ->                    D2053               
 
 ;¹ÇÄ§¶´
 
-[D2061          ¹ÇÄ§¶´1²ã]             DARK
-[D2062          ¹ÇÄ§¶´2²ã]             DARK
-[D2063          ¹ÇÄ§¶´3²ã]             DARK
-[D2064          ¹ÇÄ§¶´4²ã]             NORANDOMMOVE DARK
-[D2067          ¹ÇÄ§¶´5²ã]             NORECALL NORANDOMMOVE NORECONNECT(D2062) DARK
+[D2061          ¹ÇÄ§¶´1²ã]    NOMANNOMON             DARK
+[D2062          ¹ÇÄ§¶´2²ã]    NOMANNOMON             DARK
+[D2063          ¹ÇÄ§¶´3²ã]    NOMANNOMON             DARK
+[D2064          ¹ÇÄ§¶´4²ã]    NOMANNOMON             NORANDOMMOVE DARK
+[D2067          ¹ÇÄ§¶´5²ã]    NOMANNOMON             NORECALL NORANDOMMOVE NORECONNECT(D2062) DARK
 D2061           18,176                ->                    5                     549,127
 D2061           17,175                ->                    5                     549,127
 5               549,126               ->                    D2061                 18,175
@@ -3169,14 +3169,14 @@ D2064           10,184                ->                    D2067               
 
 ;Å£Ä§ËÂÃí
 
-[D2070          Å£Ä§ËÂÃí³öÈë¿Ú]        DARK
-[D2071          Å£Ä§ËÂÃí1²ã]           DARK
-[D2072          Å£Ä§ËÂÃí2²ã]           DARK
-[D2073          Å£Ä§ËÂÃí3²ã]           DARK
-[D2075          Å£Ä§ËÂÃí4²ã]           DARK
-[D2076          Å£Ä§ËÂÃí5²ã]           DARK
-[D2078          Å£Ä§ËÂÃí6²ã]           NORECALL NORECONNECT(D2075) NORANDOMMOVE DARK
-[D2079          Å£Ä§ËÂÃí´óÌü]          NORECALL NORANDOMMOVE NORECONNECT(D2070) NOPOSITIONMOVE DARK
+[D2070          Å£Ä§ËÂÃí³öÈë¿Ú]    NOMANNOMON        DARK
+[D2071          Å£Ä§ËÂÃí1²ã]    NOMANNOMON           DARK
+[D2072          Å£Ä§ËÂÃí2²ã]    NOMANNOMON           DARK
+[D2073          Å£Ä§ËÂÃí3²ã]    NOMANNOMON           DARK
+[D2075          Å£Ä§ËÂÃí4²ã]    NOMANNOMON           DARK
+[D2076          Å£Ä§ËÂÃí5²ã]    NOMANNOMON           DARK
+[D2078          Å£Ä§ËÂÃí6²ã]    NOMANNOMON           NORECALL NORECONNECT(D2075) NORANDOMMOVE DARK
+[D2079          Å£Ä§ËÂÃí´óÌü]    NOMANNOMON          NORECALL NORANDOMMOVE NORECONNECT(D2070) NOPOSITIONMOVE DARK
 D2070           35,39                 ->                    5                     656,459
 D2070           34,40                 ->                    5                     656,460
 5               655,458               ->                    D2070                 34,38
@@ -3213,24 +3213,24 @@ D2079           12,12                 ->                    D2078               
 
 ;»Ã¾³
 
-[H001           »Ã¾³Ò»²ã]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H002           »Ã¾³¶þ²ã]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H003           »Ã¾³Èý²ã]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H004           »Ã¾³ËÄ²ã]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H005           »Ã¾³Îå²ã]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H006           »Ã¾³Áù²ã]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H007           »Ã¾³Æß²ã]              NEEDHOLE NORECALL NOGUILDRECALL NODEARRECALL DARK
-[T1061          »Ã¾³ÃÔ¹¬]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[T2061          »Ã¾³ÃÔ¹¬]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[T2062          »Ã¾³ÃÔ¹¬]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[T2063          »Ã¾³ÃÔ¹¬]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[T3061          »Ã¾³ÃÔ¹¬]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[T3062          »Ã¾³ÃÔ¹¬]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[T3063          »Ã¾³ÃÔ¹¬]              NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H008           »Ã¾³°Ë²ã]              NORECONNECT(H007) NOMasterRECALL NORANDOMMOVE NOPOSITIONMOVE NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H009           »Ã¾³¾Å²ã]              NORECONNECT(H007) NORECALL NODEARRECALL NODEARRECALL DARK
-[H010           ÍÀÁúµî]                NORECONNECT(H007) NORECALL NODEARRECALL NODEARRECALL DARK
-[B201           ÃÜÊÒ]                  NORECALL NODEARRECALL NODEARRECALL DARK
+[H001           »Ã¾³Ò»²ã]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H002           »Ã¾³¶þ²ã]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H003           »Ã¾³Èý²ã]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H004           »Ã¾³ËÄ²ã]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H005           »Ã¾³Îå²ã]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H006           »Ã¾³Áù²ã]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H007           »Ã¾³Æß²ã]    NOMANNOMON              NEEDHOLE NORECALL NOGUILDRECALL NODEARRECALL DARK
+[T1061          »Ã¾³ÃÔ¹¬]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[T2061          »Ã¾³ÃÔ¹¬]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[T2062          »Ã¾³ÃÔ¹¬]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[T2063          »Ã¾³ÃÔ¹¬]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[T3061          »Ã¾³ÃÔ¹¬]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[T3062          »Ã¾³ÃÔ¹¬]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[T3063          »Ã¾³ÃÔ¹¬]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H008           »Ã¾³°Ë²ã]    NOMANNOMON              NORECONNECT(H007) NOMasterRECALL NORANDOMMOVE NOPOSITIONMOVE NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H009           »Ã¾³¾Å²ã]    NOMANNOMON              NORECONNECT(H007) NORECALL NODEARRECALL NODEARRECALL DARK
+[H010           ÍÀÁúµî]    NOMANNOMON                NORECONNECT(H007) NORECALL NODEARRECALL NODEARRECALL DARK
+[B201           ÃÜÊÒ]    NOMANNOMON                  NORECALL NODEARRECALL NODEARRECALL DARK
 
 H001            10,9                  ->                    H002                  205,198
 H002            205,197               ->                    H001                  11,10
@@ -3348,10 +3348,10 @@ B201            8,7                   ->                    H010                
 
 ;»Ã¾³±±
 
-[H102           »Ã¾³¶þ²ã±±]NORECALL    NOGUILDRECALL NODEARRECALL DARK
-[H104           »Ã¾³ËÄ²ã±±]            NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H105           »Ã¾³Îå²ã±±]            NORECALL NOGUILDRECALL NODEARRECALL DARK
-[H106           ÍõÕß½ûµØ]              NEEDHOLE NORECALL NODEARRECALL NORECONNECT(3) DARK
+[H102           »Ã¾³¶þ²ã±±]    NOMANNOMONNORECALL    NOGUILDRECALL NODEARRECALL DARK
+[H104           »Ã¾³ËÄ²ã±±]    NOMANNOMON            NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H105           »Ã¾³Îå²ã±±]    NOMANNOMON            NORECALL NOGUILDRECALL NODEARRECALL DARK
+[H106           ÍõÕß½ûµØ]    NOMANNOMON              NEEDHOLE NORECALL NODEARRECALL NORECONNECT(3) DARK
 H006            80,28                 ->                    H106                  100,100
 H001            72,65                 ->                    h102                  364,226
 h102            363,227               ->                    h001                  72,66
@@ -3368,25 +3368,25 @@ h105            164,22                ->                    H106                
 
 ;Áù¸öÐÂÒÂ·þµØµã
 
-[T232           Ç¯³æ³²Ñ¨]              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(11) DAY
+[T232           Ç¯³æ³²Ñ¨]    NOMANNOMON              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(11) DAY
 11              343,325               ->                    T232                  22,24
-[T218           ËÀÍöÉñµî]              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4) DAY
+[T218           ËÀÍöÉñµî]    NOMANNOMON              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4) DAY
 4               205,218               ->                    T218                  14,16
-[T339           µØÓüÁÒÑæ]              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0) DAY
+[T339           µØÓüÁÒÑæ]    NOMANNOMON              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0) DAY
 0               428,474               ->                    T339                  23,24
-[T219           ÉîÔ¨Ä§Óò]              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(1) DAY
+[T219           ÉîÔ¨Ä§Óò]    NOMANNOMON              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(1) DAY
 1               215,312               ->                    T219                  81,14
-[T315           ¶éÂä·Ø³¡]              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(1) DAY
+[T315           ¶éÂä·Ø³¡]    NOMANNOMON              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(1) DAY
 1               320,56                ->                    T315                  49,31
-[T118           À§»óµîÌÃ]              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) DAY
+[T118           À§»óµîÌÃ]    NOMANNOMON              NORECALL NORANDOMMOVE NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) DAY
 R001            55,94                 ->                    T118                  14,15
 
 ;É³°Í¿Ë²Ø±¦¸ó
 
-[H201           É³°Í¿ËÓ°Ö®µÀÒ»²ã]      NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) DARK
-[H202           É³°Í¿ËÓ°Ö®µÀ¶þ²ã]      NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) DARK
-[H203           É³°Í¿ËÓ°Ö®µÀÈý²ã]      NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) DARK
-[H204           É³°Í¿Ë²Ø±¦¸ó]          NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(H202) DARK
+[H201           É³°Í¿ËÓ°Ö®µÀÒ»²ã]    NOMANNOMON      NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) DARK
+[H202           É³°Í¿ËÓ°Ö®µÀ¶þ²ã]    NOMANNOMON      NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) DARK
+[H203           É³°Í¿ËÓ°Ö®µÀÈý²ã]    NOMANNOMON      NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) DARK
+[H204           É³°Í¿Ë²Ø±¦¸ó]    NOMANNOMON          NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(H202) DARK
 H201            121,191               ->                    H202                  7,51
 H202            6,50                  ->                    H201                  120,190
 H202            90,20                 ->                    H203                  47,90
@@ -3395,46 +3395,46 @@ H203            77,15                 ->                    H204                
 
 ;Ê¥Óò
 
-[B101A|B101     Ê¥ÓòÖ®ÃÅ]              SAFE NORECALL NORANDOMMOVE NORECONNECT(0)
-[B102A|B102     Ê¥ÓòÖ®ÃÅ]              SAFE NORECALL NORANDOMMOVE NORECONNECT(0)
-[B103A|B103     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B104A|B104     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B105A|B105     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B106A|B106     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B107A|B107     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B108A|B108     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B109A|B109     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B110A|B110     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B111A|B111     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B112A|B112     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B113A|B113     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B114A|B114     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B115A|B115     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B116A|B116     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B117A|B117     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B118A|B118     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B119A|B119     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B120A|B120     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B121A|B121     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B122A|B122     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B123A|B123     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B124A|B124     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B125A|B125     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B126A|B126     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B127A|B127     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B128A|B128     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B129A|B129     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B130A|B130     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B131A|B131     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B132A|B132     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B133A|B133     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B134A|B134     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B135A|B135     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B136A|B136     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B137A|B137     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B138A|B138     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B139A|B139     Ê¥Óò]                  NORECALL NORECONNECT(0)
-[B140A|B140     Ê¥Óò]                  NORECALL NORECONNECT(0)
+[B101A|B101     Ê¥ÓòÖ®ÃÅ]    NOMANNOMON              SAFE NORECALL NORANDOMMOVE NORECONNECT(0)
+[B102A|B102     Ê¥ÓòÖ®ÃÅ]    NOMANNOMON              SAFE NORECALL NORANDOMMOVE NORECONNECT(0)
+[B103A|B103     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B104A|B104     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B105A|B105     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B106A|B106     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B107A|B107     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B108A|B108     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B109A|B109     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B110A|B110     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B111A|B111     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B112A|B112     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B113A|B113     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B114A|B114     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B115A|B115     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B116A|B116     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B117A|B117     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B118A|B118     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B119A|B119     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B120A|B120     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B121A|B121     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B122A|B122     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B123A|B123     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B124A|B124     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B125A|B125     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B126A|B126     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B127A|B127     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B128A|B128     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B129A|B129     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B130A|B130     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B131A|B131     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B132A|B132     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B133A|B133     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B134A|B134     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B135A|B135     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B136A|B136     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B137A|B137     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B138A|B138     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B139A|B139     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
+[B140A|B140     Ê¥Óò]    NOMANNOMON                  NORECALL NORECONNECT(0)
 B101A           10                    6                     ->                    B102A                        9                     9
 B101A           11                    7                     ->                    B103A                        9                     9
 B101A           12                    8                     ->                    B104A                        9                     9
@@ -3600,23 +3600,23 @@ B102A           8                     15                    ->                  
 B102A           9                     16                    ->                    B126A                        9                     9
 
 ;Ä§Áú³Ç
-[6              Ä§Áú³Ç]
-[B357           Ä§Áú¾üÓª]              FIGHT
-[GA1            Ä§Áú¹¬µî]
-[61             Ä§Áú¶«½¼]              NODEARRECALL NOMasterRECALL
-[62             Ä§ÁúÎ÷½¼]              NODEARRECALL NOMasterRECALL
-[63             Ä§ÁúÁë]                NODEARRECALL NOMasterRECALL
-[64             Ä§Áú¹È]                NODEARRECALL NOMasterRECALL
-[65             ÁúÔ´ÑªÂ·]              NODEARRECALL NOMasterRECALL NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
-[66             Ä§ÁúÑªÓò]              NORECALL NOGUILDRECALL NODEARRECALL NORANDOMMOVE NOPOSITIONMOVE NOMasterRECALL NORECONNECT(6) NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
-[611            ¶«ÁÖ¼äÊ¤µØ]            NODEARRECALL NOMasterRECALL
-[621            Î÷ÁÖ¼äÊ¤µØ]            NODEARRECALL NOMasterRECALL
-[612            Ä§Áú¾ÉÕ¯]              NODEARRECALL NOMasterRECALL
-[613            Ä§Áú¼ÀÌ³]              NODEARRECALL NOMasterRECALL
-[622            Ä§ÁúÕÓÔó]              NODEARRECALL NOMasterRECALL
-[632            ¶«Ä§Áú¹Ø]              NOGUILDRECALL NODEARRECALL NOMasterRECALL NODRUG FIGHT NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯|Ëæ»ú´«ËÍ¾í|Ëæ»ú´«ËÍÊ¯)
-[631            Î÷Ä§Áú¹Ø]              NODEARRECALL NOMasterRECALL
-[EM300          Ä§Áúµî]                NORECONNECT(6) NEEDHOLE NORECALL
+[6              Ä§Áú³Ç]    NOMANNOMON
+[B357           Ä§Áú¾üÓª]    NOMANNOMON              FIGHT
+[GA1            Ä§Áú¹¬µî]    NOMANNOMON
+[61             Ä§Áú¶«½¼]    NOMANNOMON              NODEARRECALL NOMasterRECALL
+[62             Ä§ÁúÎ÷½¼]    NOMANNOMON              NODEARRECALL NOMasterRECALL
+[63             Ä§ÁúÁë]    NOMANNOMON                NODEARRECALL NOMasterRECALL
+[64             Ä§Áú¹È]    NOMANNOMON                NODEARRECALL NOMasterRECALL
+[65             ÁúÔ´ÑªÂ·]    NOMANNOMON              NODEARRECALL NOMasterRECALL NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
+[66             Ä§ÁúÑªÓò]    NOMANNOMON              NORECALL NOGUILDRECALL NODEARRECALL NORANDOMMOVE NOPOSITIONMOVE NOMasterRECALL NORECONNECT(6) NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
+[611            ¶«ÁÖ¼äÊ¤µØ]    NOMANNOMON            NODEARRECALL NOMasterRECALL
+[621            Î÷ÁÖ¼äÊ¤µØ]    NOMANNOMON            NODEARRECALL NOMasterRECALL
+[612            Ä§Áú¾ÉÕ¯]    NOMANNOMON              NODEARRECALL NOMasterRECALL
+[613            Ä§Áú¼ÀÌ³]    NOMANNOMON              NODEARRECALL NOMasterRECALL
+[622            Ä§ÁúÕÓÔó]    NOMANNOMON              NODEARRECALL NOMasterRECALL
+[632            ¶«Ä§Áú¹Ø]    NOMANNOMON              NOGUILDRECALL NODEARRECALL NOMasterRECALL NODRUG FIGHT NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯|Ëæ»ú´«ËÍ¾í|Ëæ»ú´«ËÍÊ¯)
+[631            Î÷Ä§Áú¹Ø]    NOMANNOMON              NODEARRECALL NOMasterRECALL
+[EM300          Ä§Áúµî]    NOMANNOMON                NORECONNECT(6) NEEDHOLE NORECALL
 
 ;Ä§Áú³Ç
 ;Ä§Áú³ÇÈ¥Ä§ÁúÎ÷½¼
@@ -3851,10 +3851,10 @@ GA1             25                    38                    ->                  
 66              255                   214                   ->                    65                           42                    160
 
 ;×¯Ô°Ê¥µØ
-[GA0            ×¯Ô°]                  SAFE INCGAMEPOINT(180/1) NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL SHOP
-[GA1A|GA1       ×¯Ô°¹¬Í¢]              INCGAMEPOINT(180/1)
-[GA2            ×¯Ô°¾º¼¼³¡]            INCGAMEPOINT(180/1)
-[GA3            ×¯Ô°ÎäÊõ¹Ý]            INCGAMEPOINT(180/1)
+[GA0            ×¯Ô°]    NOMANNOMON                  SAFE INCGAMEPOINT(180/1) NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL SHOP
+[GA1A|GA1       ×¯Ô°¹¬Í¢]    NOMANNOMON              INCGAMEPOINT(180/1)
+[GA2            ×¯Ô°¾º¼¼³¡]    NOMANNOMON            INCGAMEPOINT(180/1)
+[GA3            ×¯Ô°ÎäÊõ¹Ý]    NOMANNOMON            INCGAMEPOINT(180/1)
 GA0             48                    47                    ->                    GA1A                         25                    36
 GA1A            27                    36                    ->                    GA0                          48                    48
 GA1A            26                    37                    ->                    GA0                          48                    48
@@ -3866,107 +3866,107 @@ GA0             50,46                 ->                    GA3                 
 GA3             8,30                  ->                    GA0                   50,47
 
 ;ÑÌ»ðÍÀÄ§
-[R001A|R001     Ò»ÐÄÒ»Òâ]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
-[D2013A|D2013   ÐÄÐÄÏàÓ¡]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
-[D717A|D717     ·É»ðÁ÷ÐÇ]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
-[D024A|D024     ÀËÂþÐÇÓê]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
-[D2079A|D2079   ç²ÃÎ»ÃÏë]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
-[D5071B|D5071   ³¤¿Õ»ðÎè]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
-[D5071C|D5071   ÈçÎíËÆÃÎ]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
-[lymj|F003      ÀÇÑÌÃÎ¾³]              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[R001A|R001     Ò»ÐÄÒ»Òâ]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[D2013A|D2013   ÐÄÐÄÏàÓ¡]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[D717A|D717     ·É»ðÁ÷ÐÇ]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[D024A|D024     ÀËÂþÐÇÓê]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[D2079A|D2079   ç²ÃÎ»ÃÏë]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[D5071B|D5071   ³¤¿Õ»ðÎè]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[D5071C|D5071   ÈçÎíËÆÃÎ]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
+[lymj|F003      ÀÇÑÌÃÎ¾³]    NOMANNOMON              NOPOSITIONMOVE NORANDOMMOVE NORECALL NOGUILDRECALL NODEARRECALL NOMasterRECALL NORECONNECT(3)
 
 ;´³Ìì¹Ø
-[0122A|0122     ÌìÍ¥]                  FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL
-[D5071A|D5071   Ìì¹ØÍ¨µÀ]              SAFE NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
-[EM001|D515     Ìì¹Ø]                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
-[EM002|D515     Ìì¹Ø]                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
-[EM003|D515     Ìì¹Ø]                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
-[EM004|D515     Ìì¹Ø]                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
-[EM005|D515     Ìì¹Ø]                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
-[D515F|D515     Ê¥µîÌì¹Ø]              SAFE NORECONNECT(0122A)
+[0122A|0122     ÌìÍ¥]    NOMANNOMON                  FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL
+[D5071A|D5071   Ìì¹ØÍ¨µÀ]    NOMANNOMON              SAFE NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
+[EM001|D515     Ìì¹Ø]    NOMANNOMON                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
+[EM002|D515     Ìì¹Ø]    NOMANNOMON                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
+[EM003|D515     Ìì¹Ø]    NOMANNOMON                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
+[EM004|D515     Ìì¹Ø]    NOMANNOMON                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
+[EM005|D515     Ìì¹Ø]    NOMANNOMON                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0122A)
+[D515F|D515     Ê¥µîÌì¹Ø]    NOMANNOMON              SAFE NORECONNECT(0122A)
 
 ;Ä§ÍõÁë
-[K004A|K004     Ä§ÍõÁë]                NORECONNECT(D5071A) MISSION NOCALLHERO
-[K004B|K004     Ä§ÍõÁë]                NORECONNECT(D5071A) MISSION NOCALLHERO
-[K004C|K004     Ä§ÍõÁë]                NORECONNECT(D5071A) MISSION NOCALLHERO
-[K004D|K004     Ä§ÍõÁë]                NORECONNECT(D5071A) MISSION NOCALLHERO
-[K004E|K004     Ä§ÍõÁë]                NORECONNECT(D5071A) MISSION NOCALLHERO
+[K004A|K004     Ä§ÍõÁë]    NOMANNOMON                NORECONNECT(D5071A) MISSION NOCALLHERO
+[K004B|K004     Ä§ÍõÁë]    NOMANNOMON                NORECONNECT(D5071A) MISSION NOCALLHERO
+[K004C|K004     Ä§ÍõÁë]    NOMANNOMON                NORECONNECT(D5071A) MISSION NOCALLHERO
+[K004D|K004     Ä§ÍõÁë]    NOMANNOMON                NORECONNECT(D5071A) MISSION NOCALLHERO
+[K004E|K004     Ä§ÍõÁë]    NOMANNOMON                NORECONNECT(D5071A) MISSION NOCALLHERO
 
 ;ÈÈÑªÁî
-[TX02|T140      ÊÔÁ¶Ëþ]                FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Çìµäµ°¸â) NOTAGMAPINFO NOTAGMAPINF1 NOTAGMAPINF2 NOTAGMAPINF3 NOTAGMAPINF4 NOTAGMAPINF5 NOTAGMAPINF6
-[TX03|M100      Ó¢ÐÛÖ®Â·Ò»²ã]          FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Çìµäµ°¸â) NOTAGMAPINFO NOTAGMAPINF1 NOTAGMAPINF2 NOTAGMAPINF3 NOTAGMAPINF4 NOTAGMAPINF5 NOTAGMAPINF6
-[TX04|D716      Ó¢ÐÛÖ®Â·¶þ²ã]          NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Çìµäµ°¸â) NOTAGMAPINFO NOTAGMAPINF1 NOTAGMAPINF2 NOTAGMAPINF3 NOTAGMAPINF4 NOTAGMAPINF5 NOTAGMAPINF6
+[TX02|T140      ÊÔÁ¶Ëþ]    NOMANNOMON                FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Çìµäµ°¸â) NOTAGMAPINFO NOTAGMAPINF1 NOTAGMAPINF2 NOTAGMAPINF3 NOTAGMAPINF4 NOTAGMAPINF5 NOTAGMAPINF6
+[TX03|M100      Ó¢ÐÛÖ®Â·Ò»²ã]    NOMANNOMON          FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Çìµäµ°¸â) NOTAGMAPINFO NOTAGMAPINF1 NOTAGMAPINF2 NOTAGMAPINF3 NOTAGMAPINF4 NOTAGMAPINF5 NOTAGMAPINF6
+[TX04|D716      Ó¢ÐÛÖ®Â·¶þ²ã]    NOMANNOMON          NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Çìµäµ°¸â) NOTAGMAPINFO NOTAGMAPINF1 NOTAGMAPINF2 NOTAGMAPINF3 NOTAGMAPINF4 NOTAGMAPINF5 NOTAGMAPINF6
 
 ;Ó¢ÐÛÈÎÎñ
-[Q004A|Q004     ÏÝÚåµØÍ¼]              FIGHT NEEDHOLE NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[T1341A|T1341   ÃØÃÜÍ¨µÀ]              FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
-[B342A|B342     µØÀÎÊØÎÀ·¿¼ä]          FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
-[0162           µØÀÎ]                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
+[Q004A|Q004     ÏÝÚåµØÍ¼]    NOMANNOMON              FIGHT NEEDHOLE NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[T1341A|T1341   ÃØÃÜÍ¨µÀ]    NOMANNOMON              FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
+[B342A|B342     µØÀÎÊØÎÀ·¿¼ä]    NOMANNOMON          FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
+[0162           µØÀÎ]    NOMANNOMON                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
 
 T1341A          33,8                  ->                    B342A                 12,14
 
-[T340           ¹ÖÎï¶´¿Ú]              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4)
-[M100A|M100     ¹ÖÎïÍ¨µÀ]              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4)
-[B101B|B101     ¹ÖÎï³²Ñ¨]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4)
+[T340           ¹ÖÎï¶´¿Ú]    NOMANNOMON              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4)
+[M100A|M100     ¹ÖÎïÍ¨µÀ]    NOMANNOMON              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4)
+[B101B|B101     ¹ÖÎï³²Ñ¨]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(4)
 
 M100A           29,81                 ->                    B101B                 9,11
 
-[0156A|0156     ÀÎ·¿]                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0156A|0156     ÀÎ·¿]    NOMANNOMON                  FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[D613A|D613     Ó¢ÆæµÄÃÜµÀ]            FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D613A|D613     Ó¢ÆæµÄÃÜµÀ]    NOMANNOMON            FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[T232A|T232     ÊØÎÀ¶´]                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[0162A|0162     ÀÎ·¿]                  FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NeedHole
+[T232A|T232     ÊØÎÀ¶´]    NOMANNOMON                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0162A|0162     ÀÎ·¿]    NOMANNOMON                  FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NeedHole
 
 T232A           20,28                 ->                    0162A                 4,15
 
-[01132A|01132   Î÷¹ÏµØ]                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0) KILLFUNC(1)
+[01132A|01132   Î÷¹ÏµØ]    NOMANNOMON                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0) KILLFUNC(1)
 
-[F005A|F005     ÑºËÍÂ·]                FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
+[F005A|F005     ÑºËÍÂ·]    NOMANNOMON                FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0)
 
-[0110A|0110     ÑÐ¾¿Ôº]                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0110A|0110     ÑÐ¾¿Ôº]    NOMANNOMON                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[B102B|B102     ÃÜµÀ·¿¼ä]              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(5)
+[B102B|B102     ÃÜµÀ·¿¼ä]    NOMANNOMON              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(5)
 
-[M001A|M001     ÃÜµÀ]                  SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(5)
+[M001A|M001     ÃÜµÀ]    NOMANNOMON                  SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(5)
 
-[0132A|0132     »á¿ÍÊÒ]                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0128)
+[0132A|0132     »á¿ÍÊÒ]    NOMANNOMON                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(0128)
 
-[T1341B|T1341   Ó¢ÐÛÖ®Â·]              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[T1342A|T1342   Ó¢ÐÛÖ®Â·]              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[T1343A|T1343   Ó¢ÐÛÖ®Â·]              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[T1341B|T1341   Ó¢ÐÛÖ®Â·]    NOMANNOMON              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[T1342A|T1342   Ó¢ÐÛÖ®Â·]    NOMANNOMON              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[T1343A|T1343   Ó¢ÐÛÖ®Â·]    NOMANNOMON              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
 T1341B          5,36                  ->                    T1342A                33,8
 T1342A          5,36                  ->                    T1343A                33,8
 
-[HERO001        Ó¢ÐÛµØ]                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(B354)
+[HERO001        Ó¢ÐÛµØ]    NOMANNOMON                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(B354)
 
 ;×é¶Ó³ýÄ§
-[0111A|0111     ÊÔÁ¶ÎÝ]                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D413A|D413     Ð°¿ßÒ»²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[E404A|E404     Ð°¿ß¶þ²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0111A|0111     ÊÔÁ¶ÎÝ]    NOMANNOMON                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D413A|D413     Ð°¿ßÒ»²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[E404A|E404     Ð°¿ß¶þ²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[0111B|0111     ÊÔÁ¶ÎÝ]                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D411A|D411     ¿ó¶´Ò»²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D412A|D412     ¿ó¶´¶þ²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0111B|0111     ÊÔÁ¶ÎÝ]    NOMANNOMON                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D411A|D411     ¿ó¶´Ò»²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D412A|D412     ¿ó¶´¶þ²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[0111C|0111     ÊÔÁ¶ÎÝ]                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D613B|D613     µØÑ¨Ò»²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D617A|D617     µØÑ¨¶þ²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0111C|0111     ÊÔÁ¶ÎÝ]    NOMANNOMON                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D613B|D613     µØÑ¨Ò»²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D617A|D617     µØÑ¨¶þ²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[0111D|0111     ÊÔÁ¶ÎÝ]                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[E702A|E702     Ê¯Ä¹Ò»²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[E703A|E703     Ê¯Ä¹¶þ²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0111D|0111     ÊÔÁ¶ÎÝ]    NOMANNOMON                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[E702A|E702     Ê¯Ä¹Ò»²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[E703A|E703     Ê¯Ä¹¶þ²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[0111E|0111     ÊÔÁ¶ÎÝ]                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D5072A|D5072   ÉñµîÒ»²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[0157A|0157     Éñµî¶þ²ã]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0111E|0111     ÊÔÁ¶ÎÝ]    NOMANNOMON                SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D5072A|D5072   ÉñµîÒ»²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[0157A|0157     Éñµî¶þ²ã]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
 ;×é¶Ó½â·â
-[M100B|M100     ·âÓ¡Ò»²ã]              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[T340A|T340     ½â·âÊÒ]                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) KILLFUNC(2)
+[M100B|M100     ·âÓ¡Ò»²ã]    NOMANNOMON              FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[T340A|T340     ½â·âÊÒ]    NOMANNOMON                FIGHT NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) KILLFUNC(2)
 
-[D2002A|D2002   µØÍÜÖ®³²]              FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D2002A|D2002   µØÍÜÖ®³²]    NOMANNOMON              FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 D2002A          11,11                 ->                    Q004A                 14,13
 D2002A          11,12                 ->                    Q004A                 14,13
 D2002A          11,13                 ->                    Q004A                 14,13
@@ -4810,21 +4810,21 @@ D2002A          39,38                 ->                    Q004A               
 D2002A          39,39                 ->                    Q004A                 14,13
 
 ;·òÆÞ½â·â
-[EM300A|EM300   °®Çé¿¼Ñé³¡]            FIGHT NORECALL NORECONNECT(M101) NOGUILDRECALL NOMASTERRECALL NOPOSITIONMOVE NOTALLOWUSEITEMS(Ëæ»ú´«ËÍ¾í|¼ÇÂ·±êÊ¯|»Ø³Ç¾í|ÐÐ»á»Ø³Ç¾í|µØÀÎÌÓÍÑ¾í|Ëæ»ú´«ËÍÊ¯|Çìµäµ°¸â)
-[EM300B|EM300   Éú´æ¿¼Ñé³¡]            FIGHT NORECALL NORECONNECT(M101) NOGUILDRECALL NODEARRECALL NOMASTERRECALL NOPOSITIONMOVE NOTALLOWUSEITEMS(Ëæ»ú´«ËÍ¾í|¼ÇÂ·±êÊ¯|»Ø³Ç¾í|ÐÐ»á»Ø³Ç¾í|µØÀÎÌÓÍÑ¾í|Ëæ»ú´«ËÍÊ¯|Çìµäµ°¸â)
+[EM300A|EM300   °®Çé¿¼Ñé³¡]    NOMANNOMON            FIGHT NORECALL NORECONNECT(M101) NOGUILDRECALL NOMASTERRECALL NOPOSITIONMOVE NOTALLOWUSEITEMS(Ëæ»ú´«ËÍ¾í|¼ÇÂ·±êÊ¯|»Ø³Ç¾í|ÐÐ»á»Ø³Ç¾í|µØÀÎÌÓÍÑ¾í|Ëæ»ú´«ËÍÊ¯|Çìµäµ°¸â)
+[EM300B|EM300   Éú´æ¿¼Ñé³¡]    NOMANNOMON            FIGHT NORECALL NORECONNECT(M101) NOGUILDRECALL NODEARRECALL NOMASTERRECALL NOPOSITIONMOVE NOTALLOWUSEITEMS(Ëæ»ú´«ËÍ¾í|¼ÇÂ·±êÊ¯|»Ø³Ç¾í|ÐÐ»á»Ø³Ç¾í|µØÀÎÌÓÍÑ¾í|Ëæ»ú´«ËÍÊ¯|Çìµäµ°¸â)
 
 ;Ê¦Í½½â·â
-[1002A|1002     ÊÔÁ¶Í¨µÀ]              FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
-[T134A|T134     Ê¦Í½¿¼Ñé³¡¡¶Ê¦¸µ¡·]    FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOMASTERRECALL NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
-[T134B|T134     Ê¦Í½¿¼Ñé³¡¡¶Í½µÜ¡·]    FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOMASTERRECALL NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
-[D2001B|D2001   Ê¦Í½¿¼Ñé³¡¡¶×ÛºÏ¡·]    FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
+[1002A|1002     ÊÔÁ¶Í¨µÀ]    NOMANNOMON              FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
+[T134A|T134     Ê¦Í½¿¼Ñé³¡¡¶Ê¦¸µ¡·]    NOMANNOMON    FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOMASTERRECALL NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
+[T134B|T134     Ê¦Í½¿¼Ñé³¡¡¶Í½µÜ¡·]    NOMANNOMON    FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOMASTERRECALL NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
+[D2001B|D2001   Ê¦Í½¿¼Ñé³¡¡¶×ÛºÏ¡·]    NOMANNOMON    FIGHT NORECALL NOGUILDRECALL NODEARRECALL NORECONNECT(3) NOTALLOWUSEITEMS(¼ÇÂ·±êÊ¯)
 
 ;µØÏÂ¹¬µî
-[T1061B|T1061   ¹¬µîÃÔ¹¬]              NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D5073B|D5073   ¹¬µîÃÔ¹¬Ò»²ã¶«]        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D5073A|D5073   ¹¬µîÃÔ¹¬Ò»²ãÎ÷]        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D5072B|D5072   ¹¬µîÃÔ¹¬Ò»²ãÄÏ]        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D5074A|D5074   ¹¬µîÃÔ¹¬Ò»²ã±±]        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[T1061B|T1061   ¹¬µîÃÔ¹¬]    NOMANNOMON              NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D5073B|D5073   ¹¬µîÃÔ¹¬Ò»²ã¶«]    NOMANNOMON        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D5073A|D5073   ¹¬µîÃÔ¹¬Ò»²ãÎ÷]    NOMANNOMON        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D5072B|D5072   ¹¬µîÃÔ¹¬Ò»²ãÄÏ]    NOMANNOMON        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D5074A|D5074   ¹¬µîÃÔ¹¬Ò»²ã±±]    NOMANNOMON        NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
 T1061B          26,15                 ->                    D5073B                10,69
 T1061B          27,16                 ->                    D5073B                10,69
@@ -4846,25 +4846,25 @@ T1061B          8,9                   ->                    D5074A              
 T1061B          8,10                  ->                    D5074A                47,90
 D5074A          48,91                 ->                    T1061B                8,12
 
-[D505A|D505     ¹¬µî³¤ÀÈ]              NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[DM002A|DM002   µØÏÂ¹¬µî]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[D2070A|D2070   ÈÈÑª¶ã±ÜÀ×]            FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(DM002A)
+[D505A|D505     ¹¬µî³¤ÀÈ]    NOMANNOMON              NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[DM002A|DM002   µØÏÂ¹¬µî]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[D2070A|D2070   ÈÈÑª¶ã±ÜÀ×]    NOMANNOMON            FIGHT NORANDOMMOVE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(DM002A)
 
 D505A           95,102                ->                    DM002A                8,28
 
-[D411B|D411     µØÏÂ¹¬µîÒ»²ã]          SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(DM002A) KILLFUNC(3)
-[T240           µØÏÂ¹¬µî¶þ²ã]          SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(DM002A)
+[D411B|D411     µØÏÂ¹¬µîÒ»²ã]    NOMANNOMON          SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(DM002A) KILLFUNC(3)
+[T240           µØÏÂ¹¬µî¶þ²ã]    NOMANNOMON          SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(DM002A)
 
-[T318           Ó¢ÐÛÖ®ÃÅ]              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[T318           Ó¢ÐÛÖ®ÃÅ]    NOMANNOMON              SAFE NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
 
-[HERO1          ÎÔÁúÉ½×¯]              FIGHT NORECONNECT(3)
-[0135A|0135     É½×¯ÃÜÊÒ]              FIGHT NORECONNECT(3)
-[0131A|0131     É½×¯ÃÜÊÒ]              FIGHT NORECONNECT(3)
-[0113A|0113     É½×¯ÃÜÊÒ]              FIGHT NORECONNECT(3)
-[0135B|0135     É½×¯·¿¼ä]              FIGHT NORECONNECT(3)
-[0130A|0130     É½×¯ÃÜÊÒ]              FIGHT NORECONNECT(3)
-[0114A|0114     É½×¯²èÊÒ]              FIGHT NORECONNECT(3)
-[0115A|0115     É½×¯´óÌü]              FIGHT NORECONNECT(3)
+[HERO1          ÎÔÁúÉ½×¯]    NOMANNOMON              FIGHT NORECONNECT(3)
+[0135A|0135     É½×¯ÃÜÊÒ]    NOMANNOMON              FIGHT NORECONNECT(3)
+[0131A|0131     É½×¯ÃÜÊÒ]    NOMANNOMON              FIGHT NORECONNECT(3)
+[0113A|0113     É½×¯ÃÜÊÒ]    NOMANNOMON              FIGHT NORECONNECT(3)
+[0135B|0135     É½×¯·¿¼ä]    NOMANNOMON              FIGHT NORECONNECT(3)
+[0130A|0130     É½×¯ÃÜÊÒ]    NOMANNOMON              FIGHT NORECONNECT(3)
+[0114A|0114     É½×¯²èÊÒ]    NOMANNOMON              FIGHT NORECONNECT(3)
+[0115A|0115     É½×¯´óÌü]    NOMANNOMON              FIGHT NORECONNECT(3)
 
 HERO1           24,187                ->                    0135A                 8,9
 0135A           9,10                  ->                    HERO1                 25,188
@@ -4887,11 +4887,11 @@ HERO1           181,125               ->                    0113A               
 HERO1           86,43                 ->                    0115A                 15,19
 0115A           17,21                 ->                    HERO1                 87,44
 
-[hl001          À×Ñ×¶´Ñ¨Ò»²ã]          NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
-[hl002          À×Ñ×¶´Ñ¨¶þ²ã]          NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Ëæ»ú´«ËÍ¾í|Ëæ»ú´«ËÍÊ¯) THUNDER(40) LAVA(40)
+[hl001          À×Ñ×¶´Ñ¨Ò»²ã]    NOMANNOMON          NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3)
+[hl002          À×Ñ×¶´Ñ¨¶þ²ã]    NOMANNOMON          NORECALL NODEARRECALL NOGUILDRECALL NOMasterRECALL NORECONNECT(3) NOTALLOWUSEITEMS(Ëæ»ú´«ËÍ¾í|Ëæ»ú´«ËÍÊ¯) THUNDER(40) LAVA(40)
 
-[0170           ¾Æ¹ÝÒ»²ã]              FIGHT
-[0171           ¾Æ¹Ý¶þ²ã]              FIGHT
+[0170           ¾Æ¹ÝÒ»²ã]    NOMANNOMON              FIGHT
+[0171           ¾Æ¹Ý¶þ²ã]    NOMANNOMON              FIGHT
 3               380,298               ->                    0170                  9,21
 3               381,299               ->                    0170                  8,20
 0170            7,21                  ->                    3                     380,299
@@ -4901,106 +4901,106 @@ HERO1           86,43                 ->                    0115A               
 0171            12,10                 ->                    0170                  12,7
 
 ;¹Å¼®ÈÎÎñµØÍ¼
-[MS00|B013      ²Ø¾­¸óÐÝÏ¢ÊÒ]          SAFE NORECONNECT(0161) DAY
-[MS01|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS02|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS03|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS04|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS05|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS06|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS07|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS08|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS09|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS10|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS11|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS12|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS13|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS14|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS15|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS16|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS17|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS18|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS19|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS20|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS21|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS22|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS23|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS24|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS25|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS26|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS27|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS28|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS29|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS30|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS31|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS32|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS33|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS34|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS35|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS36|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS37|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS38|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS39|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
-[MS40|B101      ²Ø¾­¸ó]                SAFE NORECONNECT(0161) DAY (120/1)
+[MS00|B013      ²Ø¾­¸óÐÝÏ¢ÊÒ]    NOMANNOMON          SAFE NORECONNECT(0161) DAY
+[MS01|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS02|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS03|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS04|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS05|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS06|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS07|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS08|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS09|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS10|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS11|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS12|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS13|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS14|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS15|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS16|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS17|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS18|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS19|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS20|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS21|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS22|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS23|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS24|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS25|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS26|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS27|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS28|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS29|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS30|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS31|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS32|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS33|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS34|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS35|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS36|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS37|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS38|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS39|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
+[MS40|B101      ²Ø¾­¸ó]    NOMANNOMON                SAFE NORECONNECT(0161) DAY (120/1)
 ;²Ø±¦¸ó
-[CB00|T118      ²Ø±¦¸ó0ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB01|T118      ²Ø±¦¸ó1ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB02|T118      ²Ø±¦¸ó2ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB03|T118      ²Ø±¦¸ó3ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB04|T118      ²Ø±¦¸ó4ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB05|T118      ²Ø±¦¸ó5ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB06|T118      ²Ø±¦¸ó6ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB07|T118      ²Ø±¦¸ó7ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB08|T118      ²Ø±¦¸ó8ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB09|T118      ²Ø±¦¸ó9ºÅ]             SAFE NORECONNECT(CB00) DAY
-[CB10|T118      ²Ø±¦¸ó10ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB11|T118      ²Ø±¦¸ó11ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB12|T118      ²Ø±¦¸ó12ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB13|T118      ²Ø±¦¸ó13ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB14|T118      ²Ø±¦¸ó14ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB15|T118      ²Ø±¦¸ó15ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB16|T118      ²Ø±¦¸ó16ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB17|T118      ²Ø±¦¸ó17ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB18|T118      ²Ø±¦¸ó18ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB19|T118      ²Ø±¦¸ó19ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB20|T118      ²Ø±¦¸ó20ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB21|T118      ²Ø±¦¸ó21ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB22|T118      ²Ø±¦¸ó22ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB23|T118      ²Ø±¦¸ó23ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB24|T118      ²Ø±¦¸ó24ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB25|T118      ²Ø±¦¸ó25ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB26|T118      ²Ø±¦¸ó26ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB27|T118      ²Ø±¦¸ó27ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB28|T118      ²Ø±¦¸ó28ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB29|T118      ²Ø±¦¸ó29ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB30|T118      ²Ø±¦¸ó30ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB31|T118      ²Ø±¦¸ó31ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB32|T118      ²Ø±¦¸ó32ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB33|T118      ²Ø±¦¸ó33ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB34|T118      ²Ø±¦¸ó34ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB35|T118      ²Ø±¦¸ó35ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB36|T118      ²Ø±¦¸ó36ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB37|T118      ²Ø±¦¸ó37ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB38|T118      ²Ø±¦¸ó38ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB39|T118      ²Ø±¦¸ó39ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB40|T118      ²Ø±¦¸ó40ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB41|T118      ²Ø±¦¸ó41ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB42|T118      ²Ø±¦¸ó42ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB43|T118      ²Ø±¦¸ó43ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB44|T118      ²Ø±¦¸ó44ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB45|T118      ²Ø±¦¸ó45ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB46|T118      ²Ø±¦¸ó46ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB47|T118      ²Ø±¦¸ó47ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB48|T118      ²Ø±¦¸ó48ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB49|T118      ²Ø±¦¸ó49ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB50|T118      ²Ø±¦¸ó50ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB51|T118      ²Ø±¦¸ó51ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB52|T118      ²Ø±¦¸ó52ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB53|T118      ²Ø±¦¸ó53ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB54|T118      ²Ø±¦¸ó54ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB55|T118      ²Ø±¦¸ó55ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB56|T118      ²Ø±¦¸ó56ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB57|T118      ²Ø±¦¸ó57ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB58|T118      ²Ø±¦¸ó58ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB59|T118      ²Ø±¦¸ó59ºÅ]            SAFE NORECONNECT(CB00) DAY
-[CB60|T118      ²Ø±¦¸ó60ºÅ]            SAFE NORECONNECT(CB00) DAY
+[CB00|T118      ²Ø±¦¸ó0ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB01|T118      ²Ø±¦¸ó1ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB02|T118      ²Ø±¦¸ó2ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB03|T118      ²Ø±¦¸ó3ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB04|T118      ²Ø±¦¸ó4ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB05|T118      ²Ø±¦¸ó5ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB06|T118      ²Ø±¦¸ó6ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB07|T118      ²Ø±¦¸ó7ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB08|T118      ²Ø±¦¸ó8ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB09|T118      ²Ø±¦¸ó9ºÅ]    NOMANNOMON             SAFE NORECONNECT(CB00) DAY
+[CB10|T118      ²Ø±¦¸ó10ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB11|T118      ²Ø±¦¸ó11ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB12|T118      ²Ø±¦¸ó12ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB13|T118      ²Ø±¦¸ó13ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB14|T118      ²Ø±¦¸ó14ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB15|T118      ²Ø±¦¸ó15ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB16|T118      ²Ø±¦¸ó16ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB17|T118      ²Ø±¦¸ó17ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB18|T118      ²Ø±¦¸ó18ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB19|T118      ²Ø±¦¸ó19ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB20|T118      ²Ø±¦¸ó20ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB21|T118      ²Ø±¦¸ó21ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB22|T118      ²Ø±¦¸ó22ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB23|T118      ²Ø±¦¸ó23ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB24|T118      ²Ø±¦¸ó24ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB25|T118      ²Ø±¦¸ó25ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB26|T118      ²Ø±¦¸ó26ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB27|T118      ²Ø±¦¸ó27ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB28|T118      ²Ø±¦¸ó28ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB29|T118      ²Ø±¦¸ó29ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB30|T118      ²Ø±¦¸ó30ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB31|T118      ²Ø±¦¸ó31ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB32|T118      ²Ø±¦¸ó32ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB33|T118      ²Ø±¦¸ó33ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB34|T118      ²Ø±¦¸ó34ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB35|T118      ²Ø±¦¸ó35ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB36|T118      ²Ø±¦¸ó36ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB37|T118      ²Ø±¦¸ó37ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB38|T118      ²Ø±¦¸ó38ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB39|T118      ²Ø±¦¸ó39ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB40|T118      ²Ø±¦¸ó40ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB41|T118      ²Ø±¦¸ó41ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB42|T118      ²Ø±¦¸ó42ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB43|T118      ²Ø±¦¸ó43ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB44|T118      ²Ø±¦¸ó44ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB45|T118      ²Ø±¦¸ó45ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB46|T118      ²Ø±¦¸ó46ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB47|T118      ²Ø±¦¸ó47ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB48|T118      ²Ø±¦¸ó48ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB49|T118      ²Ø±¦¸ó49ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB50|T118      ²Ø±¦¸ó50ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB51|T118      ²Ø±¦¸ó51ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB52|T118      ²Ø±¦¸ó52ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB53|T118      ²Ø±¦¸ó53ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB54|T118      ²Ø±¦¸ó54ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB55|T118      ²Ø±¦¸ó55ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB56|T118      ²Ø±¦¸ó56ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB57|T118      ²Ø±¦¸ó57ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB58|T118      ²Ø±¦¸ó58ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB59|T118      ²Ø±¦¸ó59ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
+[CB60|T118      ²Ø±¦¸ó60ºÅ]    NOMANNOMON            SAFE NORECONNECT(CB00) DAY
