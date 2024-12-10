@@ -1,6 +1,7 @@
-﻿Mir200/Log/
+Mir200/Log/
 Mir200/ConLog/
 DBServer/Log/
 LoginSrv/ChrLog/
 LoginSrv/CountLog/
 Mud2/DB/Back/
+*.pb
