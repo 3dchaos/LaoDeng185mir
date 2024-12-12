@@ -1,0 +1,69 @@
+[@辅助功能]
+#IF
+	ISADMIN
+	#ACT
+	MOV N$边框色值1 255
+	MOV N$边框色值2 250
+	MOV N$边框色值3 249
+	#ELSEACT
+	MOV N$边框色值1 -1
+	MOV N$边框色值2 -1
+	MOV N$边框色值3 -1
+#IF
+#ACT
+MOV P1 0
+OPENMERCHANTBIGDLG 0 19 1 0 0 0 1 575 24 
+#if
+#say
+<&Layout:~#L01:40:196:90:240:<$STR(N$边框色值1)>>
+<MText:#L01~:0:0:161:故人今在否？|
+旧江山浑是新愁|
+欲买桂花同载酒|
+终不似，少年游
+>
+<&Layout:#L01~#L02:0:80:90:180:<$STR(N$边框色值2)>>
+<text:#L02~:地图传送/@地图传送>
+<NewLine:#L02~>
+<text:#L02~:货币兑换/@货币兑换>
+<NewLine:#L02~>
+<text:#L02~:无限仓库/@无限仓库>
+;回收部分图层
+<&Layout:~#L03:147:66:450:336:<$STR(N$边框色值3)>>
+;功能开关部分图层
+<&Layout:~#L04:147:410:450:80:<$STR(N$边框色值2)>>
+<Img:#L04~:8<$flag(1)>:0:0:0|7#勾选自动捡取/@开启自动捡取>
+<text:#L04~: 开启自动捡取:2:3{FCOLOR=146}>
+
+[@开启自动捡取]
+#IF
+	check [1] 0
+#ACT
+SET [1] 1
+OpenAutoPickItem 3 0 15 1 0 0 500
+goto @辅助功能
+GuildNoticeMsg 255 249 [自动拾取已开启，可以自动拾取周围15*15范围的物品 ] Self
+break
+#IF
+check [1] 1
+#ACT
+SET [1] 0
+CloseAutoPickItem
+goto @辅助功能
+GuildNoticeMsg 255 11 [自动拾取已关闭 ] Self
+break
+[@地图传送]
+#IF
+#ACT
+CLOSEBIGDIALOGBOX
+#CALL [系统功能\老登辅助\快捷传送.txt] @使用移动
+[@货币兑换]
+#IF
+#ACT
+CLOSEBIGDIALOGBOX
+#CALL [系统功能\老登辅助\货币互换.txt] @互换
+[@无限仓库]
+#ACT
+OpenStorageView 1
+}
+
+

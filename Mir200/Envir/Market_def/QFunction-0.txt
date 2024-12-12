@@ -1,5 +1,19 @@
 (@@sendmsg @storage @PlayOffline @getback @buy @sell @repair @s_repair @@offlinemsg @storage @getback @getnextpage @getPreviouspage @@INPUTINTEGER @@InPutString )
 
+;界面UI第一个按钮
+;背包按钮
+[@CustomButtonClick]
+#IF
+equal <$CustomButtonID> 20
+#ACT
+OpenStorageView 1
+break
+#IF
+equal <$CustomButtonID> 0
+#ACT
+#CALL [系统功能\老登辅助\辅助.txt] @辅助功能
+break
+
 [@TakeOn0]
 #IF
 NOT ISCASTLEMASTER
