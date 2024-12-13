@@ -1,5 +1,8 @@
 [@main]
 #IF
+	#ACT
+	SET [60] 1
+#IF
 CheckHaveHero
 #ACT
 break
@@ -12,6 +15,7 @@ break
 你可以去找龙人他会给你一定的帮助的。\
 \ \
 <好的，我这就去找他/@exit>
+
 #IF
 check [60] 1
 #ACT
