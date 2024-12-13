@@ -13,6 +13,21 @@ equal <$CustomButtonID> 0
 #ACT
 #CALL [系统功能\老登辅助\辅助.txt] @辅助功能
 break
+[@openSndacasket] 
+#IF
+#ACT
+break
+#SAY
+<Text:首饰盒内可放置带有麻痹、护身、复活等特殊属性的饰品:20:45{FCOLOR=255}>\
+<text:开启首饰盒:20:75:1,2/@确定开启首饰盒>\
+<text:取消:20:80:1,2/@exit>\
+
+[@确定开启首饰盒]
+#IF
+#ACT
+SetSndacasket 1 
+MessageBox 恭喜你主体首饰盒成功开启。
+break
 
 [@TakeOn0]
 #IF
@@ -529,6 +544,69 @@ SENDMSG 5 <$GetExp> 经验值增加.
 #ACT
 #CALL [系统功能\后台管理.txt] @管理
 
+
 [@Help]
 #ACT
 #CALL [系统功能\帮助菜单.txt] @帮菜
+
+;点开始挂机触发
+[@StartAutoOnline]
+#IF
+CHECKMAPNAME 0
+#ACT
+SENDMSG 6 当前地图禁止挂机
+#ELSEACT
+StartAutoPlayGame
+SENDMSG 6 开始挂机，使用快捷键“CTRL+ALT+X”停止挂机
+
+
+
+;点停止挂机触发
+[@StopAutoOnline]
+#IF
+#ACT
+StopAutoPlayGame
+SENDMSG 6 命令停止挂机，使用快捷键“CTRL+ALT+X”开始挂机
+
+
+[@QueryMyShopFail]
+#ACT
+MESSAGEBOX 你还没有个人商店，是否创建你的个人商店？\\点击确定创建个人商店。 @创建个人商店 @取消
+
+[@创建个人商店]
+亲爱的玩家你好。这里可以申请开店。\
+你可以把你的物品放到你的店铺里出售，\
+游戏中的玩家可以查询到你要出售的物品。\
+也可以把不用的物品放到店铺的仓库里。\
+点击客户端中“店”就可以进入到你的店铺中,\
+也可以查询其他用户的店铺和物品，\
+可以很方便的把仓库物品和出售的物品相互转移。\
+还可以进行摆摊操作。\ 
+
+<我要开店(点击输入你喜欢的店铺名称)/@@InputString80>\
+
+[@InputString80]
+#IF
+CHECKMYSHOP
+#ACT
+MESSAGEBOX 你已经有店铺了
+BREAK
+
+#IF
+CHECKSHOPNAME <$STR(S80)>
+#ACT
+MESSAGEBOX <$STR(S80)>店铺名称已经存在，请重新选择一个
+BREAK
+
+#IF
+#ACT
+CREATEMYSHOP <$STR(S80)>
+
+[@CreateMyShopOK]
+#SAY
+你的店铺创建成功
+
+[@CreateMyShopFail]
+#SAY
+你的店铺创建失败
+
